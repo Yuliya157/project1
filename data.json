@@ -1,0 +1,1622 @@
+{
+    "1": [
+        "Criminal tendency detection from facial images and the gender bias effect",
+        "Mahdi Hashemi, Margeret Hall",
+        "Feb 2020",
+        "Explosive performance and memory space growth in computing machines, along with recent specialization of deep learning models have radically boosted the role of images in semantic pattern recognition. In the same way that a textual post on social media reveals individual characteristics of its author, facial images may manifest some personality traits. This work is the first..."
+    ],
+    "2": [
+        "Graphical Flow-based Spark Programming",
+        "Tanmaya Mahapatra, Christian Prehofer",
+        "Feb 2020",
+        "Increased sensing data in the context of the Internet of Things (IoT) necessitates data analytics. It is challenging to write applications for Big Data systems due to complex, highly parallel software frameworks and systems. The inherent complexity in programming Big Data applications is also due to the presence of a wide range of target frameworks, with different data..."
+    ],
+    "3": [
+        "Data science: developing theoretical contributions in information systems via text analytics",
+        "Aya Rizk, Ahmed Elragal",
+        "Feb 2020",
+        "Scholars have been increasingly calling for innovative research in the organizational sciences in general, and the information systems (IS) field in specific, one that breaks from the dominance of gap-spotting and specific methodical confinements. Hence, pushing the boundaries of information systems is needed, and one way to do so is by relying more on data and less on a priori..."
+    ],
+    "4": [
+        "Anomaly detection in business processes using process mining and fuzzy association rule learning",
+        "Riyanarto Sarno, Fernandes Sinaga, Kelly Rossa Sungkono",
+        "Feb 2020",
+        "Much corporate organization nowadays implement enterprise resource planning (ERP) to manage their business processes. Because the processes run continuously, ERP produces a massive log of processes. Manual observation will have difficulty monitoring the enormous log, especially detecting anomalies. It needs the method that can detect anomalies in the large log. This paper..."
+    ],
+    "5": [
+        "Decreasing the execution time of reducers by revising clustering based on the futuristic greedy approach",
+        "Ali Bakhthemmat, Mohammad Izadi",
+        "Feb 2020",
+        "MapReduce is used within the Hadoop framework, which handles two important tasks: mapping and reducing. Data clustering in mappers and reducers can decrease the execution time, as similar data can be assigned to the same reducer with one key. Our proposed method decreases the overall execution time by clustering and lowering the number of reducers. Our proposed algorithm is..."
+    ],
+    "6": [
+        "Learning-based power prediction for geo-distributed Data Centers: weather parameter analysis",
+        "Somayyeh Taheri, Maziar Goudarzi, Osamu Yoshie",
+        "Jan 2020",
+        "Nowadays, the fast rate of technological advances, such as cloud computing, has led to the rapid growth of the Data Center (DC) market as well as their power consumption. Therefore, DC power management has become increasingly important. While power forecasting can greatly help DC power management and reduce energy consumption and cost. Power forecasting predicts the potential..."
+    ],
+    "7": [
+        "Big data monetization throughout Big Data Value Chain: a comprehensive review",
+        "Abou Zakaria Faroukhi, Imane El Alaoui, Youssef Gahi, et al.",
+        "Jan 2020",
+        "Value Chain has been considered as a key model for managing efficiently value creation processes within organizations. However, with the digitization of the end-to-end processes which began to adopt data as a main source of value, traditional value chain models have become outdated. For this, researchers have developed new value chain models, called Data Value Chains, to carry..."
+    ],
+    "8": [
+        "Unsupervised software defect prediction using median absolute deviation threshold based spectral classifier on signed Laplacian matrix",
+        "Aris Marjuni, Teguh B. Adji, Ridi Ferdiana",
+        "Dec 2019",
+        "The trend of current software inevitably leads to the big data era. There are much of large software developed from hundreds to thousands of modules. In software development projects, finding the defect proneness manually on each module in large software dataset is probably inefficient in resources. In this task, the use of a software defect prediction model becomes a popular..."
+    ],
+    "9": [
+        "Big data analysis and distributed deep learning for next-generation intrusion detection system optimization",
+        "Khloud Al Jallad, Mohamad Aljnidi, Mohammad Said Desouki",
+        "Dec 2019",
+        "With the growing use of information technology in all life domains, hacking has become more negatively effective than ever before. Also with developing technologies, attacks numbers are growing exponentially every few months and become more sophisticated so that traditional IDS becomes inefficient detecting them. This paper proposes a solution to detect not only new threats with..."
+    ],
+    "10": [
+        "Smart literature review: a practical topic modelling approach to exploratory literature review",
+        "Claus Boye Asmussen, Charles Møller",
+        "Dec 2019",
+        "Manual exploratory literature reviews should be a thing of the past, as technology and development of machine learning methods have matured. The learning curve for using machine learning methods is rapidly declining, enabling new possibilities for all researchers. A framework is presented on how to use topic modelling on a large collection of papers for an exploratory literature..."
+    ],
+    "11": [
+        "RBSEP: a reassignment and buffer based streaming edge partitioning approach",
+        "Monireh Taimouri, Hamid Saadatfar",
+        "Dec 2019",
+        "In recent years, the rapid growth of the Internet has led to creation of massively large graphs. Since databases have become very large nowadays, they cannot be processed by a simple machine at an acceptable time anymore; therefore, traditional graph partitioning methods, which are often based on having a complete image of the entire graph, are not applicable to large datasets..."
+    ],
+    "12": [
+        "HaRD: a heterogeneity-aware replica deletion for HDFS",
+        "Hilmi Egemen Ciritoglu, John Murphy, Christina Thorpe",
+        "Dec 2019",
+        "The Hadoop distributed file system (HDFS) is responsible for storing very large data-sets reliably on clusters of commodity machines. The HDFS takes advantage of replication to serve data requested by clients with high throughput. Data replication is a trade-off between better data availability and higher disk usage. Recent studies propose different data replication management..."
+    ],
+    "13": [
+        "An adaptive and real-time based architecture for financial data integration",
+        "Noussair Fikri, Mohamed Rida, Noureddine Abghour, et al.",
+        "Dec 2019",
+        "In this paper we are proposing an adaptive and real-time approach to resolve real-time financial data integration latency problems and semantic heterogeneity. Due to constraints that we have faced in some projects that requires real-time massive financial data integration and analysis, we decided to follow a new approach by combining a hybrid financial ontology, resilient..."
+    ],
+    "14": [
+        "Social network analysis in Telecom data",
+        "Nour Raeef Al-Molhem, Yasser Rahal, Mustapha Dakkak",
+        "Dec 2019",
+        "Many systems can be represented as networks or graph collections of nodes joined by edges. The social structures in these networks can be investigated using graph theory through a process called social network analysis (SNA). In this paper, networks and SNA concepts were applied using Telecom data such as call detail records (CDRs) and customers data to model our social network..."
+    ],
+    "15": [
+        "Computational storage: an efficient and scalable platform for big data and HPC applications",
+        "Mahdi Torabzadehkashi, Siavash Rezaei, Ali HeydariGorji, et al.",
+        "Dec 2019",
+        "In the era of big data applications, the demand for more sophisticated data centers and high-performance data processing mechanisms is increasing drastically. Data are originally stored in storage systems. To process data, application servers need to fetch them from storage devices, which imposes the cost of moving data to the system. This cost has a direct relation with the..."
+    ],
+    "16": [
+        "Characterizing popularity dynamics of hot topics using micro-blogs spatio-temporal data",
+        "Lianren Wu, Jinjie Li, Jiayin Qi",
+        "Dec 2019",
+        "In this paper, a quantitative temporal and spatial analysis of the dynamics of hot topics popularity in Micro-blogging system was provided. Firstly, the popularity time series of 1167 hot topics were counted and calculated by Excel. Secondly, based on MATLAB software,the popularity time series were clustered into six clusters by K-spectral centroid (K-SC) clustering algorithm..."
+    ],
+    "17": [
+        "Efficient storage of heterogeneous geospatial data in spatial databases",
+        "Atle Frenvik Sveen",
+        "Dec 2019",
+        "The no-schema approach of NoSQL document stores is a tempting solution for importing heterogenous geospatial data to a spatial database. However, this approach means sacrificing the benefits of RDBMSes, such as existing integrations and the ACID principle. Previous comparisons of the document-store and table-based layout for storing geospatial data favours the document-store..."
+    ],
+    "18": [
+        "A new Internet of Things architecture for real-time prediction of various diseases using machine learning on big data environment",
+        "Abderrahmane Ed-daoudy, Khalil Maalmi",
+        "Dec 2019",
+        "A number of technologies enabled by Internet of Thing (IoT) have been used for the prevention of various chronic diseases, continuous and real-time tracking system is a particularly important one. Wearable medical devices with sensor, health cloud and mobile applications have continuously generating a huge amount of data which is often called as streaming big data. Due to the..."
+    ],
+    "19": [
+        "Severely imbalanced Big Data challenges: investigating data sampling approaches",
+        "Tawfiq Hasanin, Taghi M. Khoshgoftaar, Joffrey L. Leevy, et al.",
+        "Dec 2019",
+        "Severe class imbalance between majority and minority classes in Big Data can bias the predictive performance of Machine Learning algorithms toward the majority (negative) class. Where the minority (positive) class holds greater value than the majority (negative) class and the occurrence of false negatives incurs a greater penalty than false positives, the bias may lead to adverse..."
+    ],
+    "20": [
+        "On using MapReduce to scale algorithms for Big Data analytics: a case study",
+        "Phongphun Kijsanayothin, Gantaphon Chalumporn, Rattikorn Hewett",
+        "Dec 2019",
+        "Many data analytics algorithms are originally designed for in-memory data. Parallel and distributed computing is a natural first remedy to scale these algorithms to “Big algorithms” for large-scale data. Advances in many Big Data analytics algorithms are contributed by MapReduce, a programming paradigm that enables parallel and distributed execution of massive data processing on..."
+    ],
+    "21": [
+        "Evaluation of big data frameworks for analysis of smart grids",
+        "Mohammad Hasan Ansari, Vahid Tabatab Vakili, Behnam Bahrak",
+        "Dec 2019",
+        "With the rapid development of smart grids and increasing data collected in these networks, analyzing this massive data for applications such as marketing, cyber-security, and performance analysis, has gained popularity. This paper focuses on analysis and performance evaluation of big data frameworks that are proposed for handling smart grid data. Since obtaining large amounts of..."
+    ],
+    "22": [
+        "Internet of Things is a revolutionary approach for future technology enhancement: a review",
+        "Sachin Kumar, Prayag Tiwari, Mikhail Zymbler",
+        "Dec 2019",
+        "Internet of Things (IoT) is a new paradigm that has changed the traditional way of living into a high tech life style. Smart city, smart homes, pollution control, energy saving, smart transportation, smart industries are such transformations due to IoT. A lot of crucial research studies and investigations have been done in order to enhance the technology through IoT. However..."
+    ],
+    "23": [
+        "Deep convolutional neural network based medical image classification for disease diagnosis",
+        "Samir S. Yadav, Shivajirao M. Jadhav",
+        "Dec 2019",
+        "Medical image classification plays an essential role in clinical treatment and teaching tasks. However, the traditional method has reached its ceiling on performance. Moreover, by using them, much time and effort need to be spent on extracting and selecting classification features. The deep neural network is an emerging machine learning method that has proven its potential for..."
+    ],
+    "24": [
+        "A novel approach for big data processing using message passing interface based on memory mapping",
+        "Saad Ahmed Dheyab, Mohammed Najm Abdullah, Buthainah Fahran Abed",
+        "Dec 2019",
+        "The analysis and processing of big data are one of the most important challenges that researchers are working on to find the best approaches to handle it with high performance, low cost and high accuracy. In this paper, a novel approach for big data processing and management was proposed that differed from the existing ones; the proposed method employs not only the memory space..."
+    ],
+    "25": [
+        "Using transfer learning for smart building management system",
+        "Bens Pardamean, Hery Harjono Muljo, Tjeng Wawan Cenggoro, et al.",
+        "Dec 2019",
+        "In building management, energy optimization is one of the main concern that needs to be automated. For automation, an intelligent system needs to be developed. However, an intelligent system needs to be trained in a large dataset before it can be used reliably. In this paper, we present a transfer learning scheme to develop an intelligent system for smart building management..."
+    ],
+    "26": [
+        "Lifelong Machine Learning and root cause analysis for large-scale cancer patient data",
+        "Gautam Pal, Xianbin Hong, Zhuo Wang, et al.",
+        "Dec 2019",
+        "IntroductionThis paper presents a lifelong learning framework which constantly adapts with changing data patterns over time through incremental learning approach. In many big data systems, iterative re-training high dimensional data from scratch is computationally infeasible since constant data stream ingestion on top of a historical data pool increases the training time..."
+    ],
+    "27": [
+        "HybSMRP: a hybrid scheduling algorithm in Hadoop MapReduce framework",
+        "Abolfazl Gandomi, Midia Reshadi, Ali Movaghar, et al.",
+        "Nov 2019",
+        "Due to the advent of new technologies, devices, and communication tools such as social networking sites, the amount of data produced by mankind is growing rapidly every year. Big data is a collection of large datasets that cannot be processed using traditional computing techniques. MapReduce has been introduced to solve large-data computational problems. It is specifically..."
+    ],
+    "28": [
+        "Online Feature Selection (OFS) with Accelerated Bat Algorithm (ABA) and Ensemble Incremental Deep Multiple Layer Perceptron (EIDMLP) for big data streams",
+        "D. Renuka Devi, S. Sasikala",
+        "Nov 2019",
+        "Feature selection is mainly used to lessen the dispensation load of data mining models. To condense the time for processing voluminous data, parallel processing is carried out with MapReduce (MR) technique. However with the existing algorithms, the performance of the classifiers needs substantial improvement. MR method, which is recommended in this research work, will perform..."
+    ],
+    "29": [
+        "Enlarging smaller images before inputting into convolutional neural network: zero-padding vs. interpolation",
+        "Mahdi Hashemi",
+        "Nov 2019",
+        "The input to a machine learning model is a one-dimensional feature vector. However, in recent learning models, such as convolutional and recurrent neural networks, two- and three-dimensional feature tensors can also be inputted to the model. During training, the machine adjusts its internal parameters to project each feature tensor close to its target. After training, the machine..."
+    ],
+    "30": [
+        "A graphical heuristic for reduction and partitioning of large datasets for scalable supervised training",
+        "Sumedh Yadav, Mathis Bode",
+        "Oct 2019",
+        "A scalable graphical method is presented for selecting and partitioning datasets for the training phase of a classification task. For the heuristic, a clustering algorithm is required to get its computation cost in a reasonable proportion to the task itself. This step is succeeded by construction of an information graph of the underlying classification patterns using approximate..."
+    ],
+    "31": [
+        "Context-aware rule learning from smartphone data: survey, challenges and future directions",
+        "Iqbal H. Sarker",
+        "Oct 2019",
+        "Smartphones are considered as one of the most essential and highly personal devices of individuals in our current world. Due to the popularity of context-aware technology and recent developments in smartphones, these devices can collect and process raw contextual data about users’ surrounding environment and their corresponding behavioral activities with their phones. Thus..."
+    ],
+    "32": [
+        "An analytical study of information extraction from unstructured and multidimensional big data",
+        "Kiran Adnan, Rehan Akbar",
+        "Oct 2019",
+        "Process of information extraction (IE) is used to extract useful information from unstructured or semi-structured data. Big data arise new challenges for IE techniques with the rapid growth of multifaceted also called as multidimensional unstructured data. Traditional IE systems are inefficient to deal with this huge deluge of unstructured big data. The volume and variety of big..."
+    ],
+    "33": [
+        "Improving the performance of support-vector machine by selecting the best features by Gray Wolf algorithm to increase the accuracy of diagnosis of breast cancer",
+        "Seyed Reza Kamel, Reyhaneh YaghoubZadeh, Maryam Kheirabadi",
+        "Oct 2019",
+        "One of the most common diseases among women is breast cancer, the early diagnosis of which is of paramount importance. Given the time-consuming nature of the diagnosis process of the disease, using new methods such as computer science is extremely important for early detection of the condition. Today, the main emphasis is on the science of data mining as one of the computer..."
+    ],
+    "34": [
+        "Emotion analysis of Arabic tweets using deep learning approach",
+        "Massa Baali, Nada Ghneim",
+        "Oct 2019",
+        "Nowadays, sharing moments on social networks have become something widespread. Sharing ideas, thoughts, and good memories to express our emotions through text without using a lot of words. Twitter, for instance, is a rich source of data that is a target for organizations for which they can use to analyze people’s opinions, sentiments and emotions. Emotion analysis normally gives..."
+    ],
+    "35": [
+        "A survey on driving behavior analysis in usage based insurance using big data",
+        "Subramanian Arumugam, R. Bhargavi",
+        "Sep 2019",
+        "The emergence and growth of connected technologies and the adaptation of big data are changing the face of all industries. In the insurance industry, Usage-Based Insurance (UBI) is the most popular use case of big data adaptation. Initially UBI is started as a simple unitary Pay-As-You-Drive (PAYD) model in which the classification of good and bad drivers is an unresolved task..."
+    ],
+    "36": [
+        "Development of a predictive model for on-time arrival flight of airliner by discovering correlation between flight and weather data",
+        "Noriko Etani",
+        "Sep 2019",
+        "An important business of airlines is to get customer satisfaction. Due to bad weather, a mechanical reason, and the late arrival of the aircraft to the point of departure, flights delay and lead to customer dissatisfaction. A predictive model of on-time arrival flight is proposed with using flight data and weather data. The key research in this paper is to discover the..."
+    ],
+    "37": [
+        "Evaluating the performance of sentence level features and domain sensitive features of product reviews on supervised sentiment analysis tasks",
+        "Bagus Setya Rintyarna, Riyanarto Sarno, Chastine Fatichah",
+        "Sep 2019",
+        "With the popularity of e-commerce, posting online product reviews expressing customer’s sentiment or opinion towards products has grown exponentially. Sentiment analysis is a computational method that plays an essential role in automating the extraction of subjective information i.e. customer’s sentiment or opinion from online product reviews. Two approaches commonly used in..."
+    ],
+    "38": [
+        "Advancing community detection using Keyword Attribute Search",
+        "Sanket Chobe, Justin Zhan",
+        "Sep 2019",
+        "As social network structures evolve constantly, it is necessary to design an efficient mechanism to track the influential nodes and accurate communities in the networks. The attributed graph represents the information about properties of the nodes and relationships between different nodes, hence, this attribute information can be used for more accurate community detection..."
+    ],
+    "39": [
+        "Multi-dimensional geospatial data mining in a distributed environment using MapReduce",
+        "Mazin Alkathiri, Abdul Jhummarwala, M. B. Potdar",
+        "Sep 2019",
+        "Data mining and machine learning techniques for processing raster data consider a single spectral band of data at a time. The individual results are combined to obtain the final output. The essence of related multi-spectral information is lost when the bands are considered independently. The proposed platform is based on Apache Hadoop ecosystem and supports performing analysis on..."
+    ],
+    "40": [
+        "Analysis and classification of heart diseases using heartbeat features and machine learning algorithms",
+        "Fajr Ibrahem Alarsan, Mamoon Younes",
+        "Aug 2019",
+        "This study proposed an ECG (Electrocardiogram) classification approach using machine learning based on several ECG features. An electrocardiogram (ECG) is a signal that measures the electric activity of the heart. The proposed approach is implemented using ML-libs and Scala language on Apache Spark framework; MLlib is Apache Spark’s scalable machine learning library. The key..."
+    ],
+    "41": [
+        "Using electronic transaction data to add geographic granularity to official estimates of retail sales",
+        "Brian Dumbacher, Darcy Steeg Morris, Carma Hogue",
+        "Aug 2019",
+        "IntroductionEconomists are interested in more granular, more frequent data to aid in their understanding of the U.S. economy. The most frequent economic data currently available from the U.S. Census Bureau come from monthly economic indicators such as the Monthly Retail Trade Survey, which produces national estimates of retail sales. On the other hand, the most granular data (in..."
+    ],
+    "42": [
+        "Feature selection methods and genomic big data: a systematic review",
+        "Khawla Tadist, Said Najah, Nikola S. Nikolov, et al.",
+        "Aug 2019",
+        "In the era of accelerating growth of genomic data, feature-selection techniques are believed to become a game changer that can help substantially reduce the complexity of the data, thus making it easier to analyze and translate it into useful information. It is expected that within the next decade, researchers will head towards analyzing the genomes of all living creatures making..."
+    ],
+    "43": [
+        "Leveraging resource management for efficient performance of Apache Spark",
+        "Khadija Aziz, Dounia Zaidouni, Mostafa Bellafkih",
+        "Aug 2019",
+        "Apache Spark is one of the most widely used open source processing framework for big data, it allows to process large datasets in parallel using a large number of nodes. Often, applications of this framework use resource management systems like YARN, which provide jobs a specific amount of resources for their execution. In addition, a distributed file system such as HDFS stores..."
+    ],
+    "44": [
+        "Big data clustering with varied density based on MapReduce",
+        "Safanaz Heidari, Mahmood Alborzi, Reza Radfar, et al.",
+        "Aug 2019",
+        "The DBSCAN algorithm is a prevalent method of density-based clustering algorithms, the most important feature of which is the ability to detect arbitrary shapes and varied clusters and noise data. Nevertheless, this algorithm faces a number of challenges, including failure to find clusters of varied densities. On the other hand, with the rapid development of the information age..."
+    ],
+    "45": [
+        "Positive and negative association rule mining in Hadoop’s MapReduce environment",
+        "Sikha Bagui, Probal Chandra Dhar",
+        "Aug 2019",
+        "In this paper, we present a Hadoop implementation of the Apriori algorithm. Using Hadoop’s distributed and parallel MapReduce environment, we present an architecture to mine positive as well as negative association rules in big data using frequent itemset mining and the Apriori algorithm. We also analyze and present the results of a few optimization parameters in Hadoop’s..."
+    ],
+    "46": [
+        "Correction to: A novel adaptable approach for sentiment analysis on big social data",
+        "Imane El Alaoui, Youssef Gahi, Rochdi Messoussi, et al.",
+        "Aug 2019",
+        ""
+    ],
+    "47": [
+        "VADA: an architecture for end user informed data preparation",
+        "Nikolaos Konstantinou, Edward Abel, Luigi Bellomarini, et al.",
+        "Aug 2019",
+        "BackgroundData scientists spend considerable amounts of time preparing data for analysis. Data preparation is labour intensive because the data scientist typically takes fine grained control over each aspect of each step in the process, motivating the development of techniques that seek to reduce this burden.ResultsThis paper presents an architecture in which the data scientist..."
+    ],
+    "48": [
+        "Traffic flow estimation with data from a video surveillance camera",
+        "Aleksandr Fedorov, Kseniia Nikolskaia, Sergey Ivanov, et al.",
+        "Aug 2019",
+        "This study addresses the problem of traffic flow estimation based on the data from a video surveillance camera. Target problem here is formulated as counting and classifying vehicles by their driving direction. This subject area is in early development, and the focus of this work is only one of the busiest crossroads in city Chelyabinsk, Russia. To solve the posed problem, we..."
+    ],
+    "49": [
+        "Is bigger always better? A controversial journey to the center of machine learning design, with uses and misuses of big data for predicting water meter failures",
+        "Marco Roccetti, Giovanni Delnevo, Luca Casini, et al.",
+        "Aug 2019",
+        "In this paper, we describe the design of a machine learning-based classifier, tailored to predict whether a water meter will fail or need a replacement. Our initial attempt to train a recurrent deep neural network (RNN), based on the use of 15 million of readings gathered from 1 million of mechanical water meters, spread throughout Northern Italy, led to non-positive results. We..."
+    ],
+    "50": [
+        "Big data analytics: a link between knowledge management capabilities and superior cyber protection",
+        "Peter Oluseyi Obitade",
+        "Aug 2019",
+        "As cybersecurity threats increase in frequency and sophistication, organizations are realizing that one of their strongest resources to combat cyberattacks lies in the growing volume of data at their disposal. However, traditional knowledge management technologies have limited capabilities to effectively process and analyze these larger data volumes that can provide managers with..."
+    ],
+    "51": [
+        "Evaluation of maxout activations in deep learning across several big data domains",
+        "Gabriel Castaneda, Paul Morris, Taghi M. Khoshgoftaar",
+        "Aug 2019",
+        "This study investigates the effectiveness of multiple maxout activation function variants on 18 datasets using Convolutional Neural Networks. A network with maxout activation has a higher number of trainable parameters compared to networks with traditional activation functions. However, it is not clear if the activation function itself or the increase in the number of trainable..."
+    ],
+    "52": [
+        "Examining characteristics of predictive models with imbalanced big data",
+        "Tawfiq Hasanin, Taghi M. Khoshgoftaar, Joffrey L. Leevy, et al.",
+        "Jul 2019",
+        "High class imbalance between majority and minority classes in datasets can skew the performance of Machine Learning algorithms and bias predictions in favor of the majority (negative) class. This bias, for cases where the minority (positive) class is of greater interest and the occurrence of false negatives is costlier than false positives, may result in adverse consequences. Our..."
+    ],
+    "53": [
+        "Impact of class distribution on the detection of slow HTTP DoS attacks using Big Data",
+        "Chad L. Calvert, Taghi M. Khoshgoftaar",
+        "Jul 2019",
+        "The integrity of modern network communications is constantly being challenged by more sophisticated intrusion techniques. Attackers are consistently shifting to stealthier and more complex forms of attacks in an attempt to bypass known mitigation strategies. In recent years, attackers have begun to focus their attack efforts on the application layer, allowing them to produce..."
+    ],
+    "54": [
+        "Random forest implementation and optimization for Big Data analytics on LexisNexis’s high performance computing cluster platform",
+        "Victor M. Herrera, Taghi M. Khoshgoftaar, Flavio Villanustre, et al.",
+        "Jul 2019",
+        "In this paper, we comprehensively explain how we built a novel implementation of the Random Forest algorithm on the High Performance Computing Cluster (HPCC) Systems Platform from LexisNexis. The algorithm was previously unavailable on that platform. Random Forest’s learning process is based on the principle of recursive partitioning and although recursion per se is not allowed..."
+    ],
+    "55": [
+        "Exploring crime patterns in Mexico City",
+        "C. A. Piña-García, Leticia Ramírez-Ramírez",
+        "Jul 2019",
+        "IntroductionLife in the city generates data on human behavior in many different ways. Measuring human behavior in terms of criminal offenses plays a critical role on identifying the most common crime type in each urban area. A primary concern for the population of the largest cities in the world is to avoid specific city zones that could show a significant risk. This case of..."
+    ],
+    "56": [
+        "Reality mining and predictive analytics for building smart applications",
+        "Hiba Asri, Hajar Mousannif, Hassan Al Moatassime",
+        "Jul 2019",
+        "BackgroundMobile phone and sensors have become very useful to understand and analyze human lifestyle because of the huge amount of data they can collect every second. This triggered the idea of combining benefits and advantages of reality mining, machine learning and big data predictive analytics tools, applied to smartphones/sensors real time. The main goal of our study is to..."
+    ],
+    "57": [
+        "On combining Big Data and machine learning to support eco-driving behaviours",
+        "Giovanni Delnevo, Pietro Di Lena, Silvia Mirri, et al.",
+        "Jul 2019",
+        "A conscious use of the battery is one of the key elements to consider while driving an electric vehicle. Hence, supporting the drivers, with information about it, can be strategic in letting them drive in a better way, with the purpose of optimizing the energy consumption. In the context of electric vehicles, equipped with regenerative brakes, the driver’s braking style can make..."
+    ],
+    "58": [
+        "Medicare fraud detection using neural networks",
+        "Justin M. Johnson, Taghi M. Khoshgoftaar",
+        "Jul 2019",
+        "Access to affordable healthcare is a nationwide concern that impacts a large majority of the United States population. Medicare is a Federal Government healthcare program that provides affordable health insurance to the elderly population and individuals with select disabilities. Unfortunately, there is a significant amount of fraud, waste, and abuse within the Medicare system..."
+    ],
+    "59": [
+        "A machine learning approach to analyze customer satisfaction from airline tweets",
+        "Sachin Kumar, Mikhail Zymbler",
+        "Jul 2019",
+        "Customer’s experience is one of the important concern for airline industries. Twitter is one of the popular social media platform where flight travelers share their feedbacks in the form of tweets. This study presents a machine learning approach to analyze the tweets to improve the customer’s experience. Features were extracted from the tweets using word embedding with Glove..."
+    ],
+    "60": [
+        "Resolving intravoxel white matter structures in the human brain using regularized regression and clustering",
+        "Andrea Hart, Brianna Smith, Sean Smith, et al.",
+        "Jul 2019",
+        "The human brain is a complex system of neural tissue that varies significantly between individuals. Although the technology that delineates these neural pathways does not currently exist, medical imaging modalities, such as diffusion magnetic resonance imaging (dMRI), can be leveraged for mathematical identification. The purpose of this work is to develop a novel method employing..."
+    ],
+    "61": [
+        "A survey on Image Data Augmentation for Deep Learning",
+        "Connor Shorten, Taghi M. Khoshgoftaar",
+        "Jul 2019",
+        "Deep convolutional neural networks have performed remarkably well on many Computer Vision tasks. However, these networks are heavily reliant on big data to avoid overfitting. Overfitting refers to the phenomenon when a network learns a function with very high variance such as to perfectly model the training data. Unfortunately, many application domains do not have access to big..."
+    ],
+    "62": [
+        "The anatomy of the data-driven smart sustainable city: instrumentation, datafication, computerization and related applications",
+        "Simon Elias Bibri",
+        "Jul 2019",
+        "We are moving into an era where instrumentation, datafication, and computerization are routinely pervading the very fabric of cities, coupled with the interlinking, integration, and coordination of their systems and domains. As a result, vast troves of data are generated and exploited to operate, manage, organize, and regulate urban life, or a deluge of contextual and actionable..."
+    ],
+    "63": [
+        "Tree stream mining algorithm with Chernoff-bound and standard deviation approach for big data stream",
+        "Ari Wibisono, Devvi Sarwinda, Petrus Mursanto",
+        "Jul 2019",
+        "We propose a Chernoff-bound approach and examine standard deviation value to enhance the accuracy of the existing fast incremental model tree with the drift detection (FIMT-DD) algorithm. It is a data stream mining algorithm that can observe and form a model tree from a large dataset. The standard FIMT-DD algorithm uses the Hoeffding bound for its splitting criterion. The use of..."
+    ],
+    "64": [
+        "Effectiveness analysis of machine learning classification models for predicting personalized context-aware smartphone usage",
+        "Iqbal H. Sarker, A. S. M. Kayes, Paul Watters",
+        "Jul 2019",
+        "Due to the increasing popularity of recent advanced features and context-awareness in smart mobile phones, the contextual data relevant to users’ diverse activities with their phones are recorded through the device logs. Modeling and predicting individual’s smartphone usage based on contexts, such as temporal, spatial, or social information, can be used to build various context..."
+    ],
+    "65": [
+        "Feature visualization in comic artist classification using deep neural networks",
+        "Kim Young-Min",
+        "Jun 2019",
+        "Deep neural networks have become a standard framework for image analytics. Besides the traditional applications, such as object classification and detection, the latest studies have started to expand the scope of the applications to include artworks. However, popular art forms, such as comics, have been ignored in this trend. This study investigates visual features for comic..."
+    ],
+    "66": [
+        "STVG: an evolutionary graph framework for analyzing fast-evolving networks",
+        "Ikechukwu Maduako, Monica Wachowicz, Trevor Hanson",
+        "Jun 2019",
+        "Sequence of graph snapshots have been commonly utilized in literature to represent changes in a dynamic graph. This approach may be suitable for small-size and slowly evolving graphs; however, it is associated with high storage overhead in massive and fast-evolving graphs because of replication of the entire graph from one snapshot to another at shorter temporal resolutions. This..."
+    ],
+    "67": [
+        "Big data in healthcare: management, analysis and future prospects",
+        "Sabyasachi Dash, Sushil Kumar Shakyawar, Mohit Sharma, et al.",
+        "Jun 2019",
+        "‘Big data’ is massive amounts of information that can work wonders. It has become a topic of special interest for the past two decades because of a great potential that is hidden in it. Various public and private sector industries generate, store, and analyze big data with an aim to improve the services they provide. In the healthcare industry, various sources for big data..."
+    ],
+    "68": [
+        "GNSS-based navigation systems of autonomous drone for delivering items",
+        "Aurello Patrik, Gaudi Utama, Alexander Agung Santoso Gunawan, et al.",
+        "Jun 2019",
+        "This paper presents our research on the development of navigation systems of autonomous drone for delivering items that uses a GNSS (Global Navigation Satellite System) and a compass as the main tools in drone. The grand purpose of our research is to deliver important medical aids for patients in emergency situations and implementation in agriculture in Indonesia, as part of the..."
+    ],
+    "69": [
+        "Evaluation of distributed stream processing frameworks for IoT applications in Smart Cities",
+        "Hamid Nasiri, Saeed Nasehi, Maziar Goudarzi",
+        "Jun 2019",
+        "The widespread growth of Big Data and the evolution of Internet of Things (IoT) technologies enable cities to obtain valuable intelligence from a large amount of real-time produced data. In a Smart City, various IoT devices generate streams of data continuously which need to be analyzed within a short period of time; using some Big Data technique. Distributed stream processing..."
+    ],
+    "70": [
+        "Cyber risk prediction through social media big data analytics and statistical machine learning",
+        "Athor Subroto, Andri Apriyana",
+        "Jun 2019",
+        "As a natural outcome of achieving equilibrium, digital economic progress will most likely be subject to increased cyber risks. Therefore, the purpose of this study is to present an algorithmic model that utilizes social media big data analytics and statistical machine learning to predict cyber risks. The data for this study consisted of 83,015 instances from the common..."
+    ],
+    "71": [
+        "Ally patches for spoliation of adversarial patches",
+        "Alaa E. Abdel-Hakim",
+        "Jun 2019",
+        "Adversarial attacks represent a serious evolving threat to the operation of deep neural networks. Recently, adversarial algorithms were developed to facilitate hallucination of deep neural networks for ordinary attackers. State-of-the-arts algorithms could generate offline printable adversarial patches that can be interspersed within fields of view of the capturing cameras in an..."
+    ],
+    "72": [
+        "RecencyMiner: mining recency-based personalized behavior from contextual smartphone data",
+        "Iqbal H. Sarker, Alan Colman, Jun Han",
+        "Jun 2019",
+        "Due to the advanced features in recent smartphones and context-awareness in mobile technologies, users’ diverse behavioral activities with their phones and associated contexts are recorded through the device logs. Behavioral patterns of smartphone users may vary greatly between individuals in different contexts—for example, temporal, spatial, or social contexts. However, an..."
+    ],
+    "73": [
+        "Scalable architecture for Big Data financial analytics: user-defined functions vs. SQL",
+        "Kurt Stockinger, Nils Bundi, Jonas Heitz, et al.",
+        "Jun 2019",
+        "Large financial organizations have hundreds of millions of financial contracts on their balance sheets. Moreover, highly volatile financial markets and heterogeneous data sets within and across banks world-wide make near real-time financial analytics very challenging and their handling thus requires cutting edge financial algorithms. However, due to a lack of data modeling..."
+    ],
+    "74": [
+        "Big data stream analysis: a systematic literature review",
+        "Taiwo Kolajo, Olawande Daramola, Ayodele Adebiyi",
+        "Jun 2019",
+        "Recently, big data streams have become ubiquitous due to the fact that a number of applications generate a huge amount of data at a great velocity. This made it difficult for existing data mining tools, technologies, methods, and techniques to be applied directly on big data streams due to the inherent dynamic characteristics of big data. In this paper, a systematic review of big..."
+    ],
+    "75": [
+        "Intelligent video surveillance: a review through deep learning techniques for crowd analysis",
+        "G. Sreenu, M. A. Saleem Durai",
+        "Jun 2019",
+        "Big data applications are consuming most of the space in industry and research area. Among the widespread examples of big data, the role of video streams from CCTV cameras is equally important as other sources like social media data, sensor data, agriculture data, medical data and data evolved from space research. Surveillance videos have a major contribution in unstructured big..."
+    ],
+    "76": [
+        "Uncertainty in big data analytics: survey, opportunities, and challenges",
+        "Reihaneh H. Hariri, Erik M. Fredericks, Kate M. Bowers",
+        "Jun 2019",
+        "Big data analytics has gained wide attention from both academia and industry as the demand for understanding trends in massive datasets increases. Recent developments in sensor networks, cyber-physical systems, and the ubiquity of the Internet of Things (IoT) have increased the collection of data (including health care, social media, smart cities, agriculture, finance, education..."
+    ],
+    "77": [
+        "Exploring and cleaning big data with random sample data blocks",
+        "Salman Salloum, Joshua Zhexue Huang, Yulin He",
+        "Jun 2019",
+        "Data scientists need scalable methods to explore and clean big data before applying advanced data analysis and mining algorithms. In this paper, we propose the RSP-Explore method to enable data scientists to iteratively explore big data on small computing clusters. We address three main tasks: statistical estimation, error detection, and data cleaning. The Random Sample Partition..."
+    ],
+    "78": [
+        "DENCAST: distributed density-based clustering for multi-target regression",
+        "Roberto Corizzo, Gianvito Pio, Michelangelo Ceci, et al.",
+        "Jun 2019",
+        "Recent developments in sensor networks and mobile computing led to a huge increase in data generated that need to be processed and analyzed efficiently. In this context, many distributed data mining algorithms have recently been proposed. Following this line of research, we propose the DENCAST system, a novel distributed algorithm implemented in Apache Spark, which performs..."
+    ],
+    "79": [
+        "Oscillation of tweet sentiments in the election of João Doria Jr. for Mayor",
+        "Rubens Mussi Cury",
+        "Jun 2019",
+        "The purpose of this work is to identify and analyze the oscillation of sentiments expressed by users of the Twitter social media through their direct replies to posts by user @jdoriajr that took place before, during and after the elections for mayor of the city of São Paulo in the year 2016. In order to make this research possible, we used Python 3.6.4 and the Searchtweets 1.6.1..."
+    ],
+    "80": [
+        "Diftong: a tool for validating big data workflows",
+        "Raya Rizk, Steve McKeever, Johan Petrini, et al.",
+        "May 2019",
+        "Data validation is about verifying the correctness of data. When organisations update and refine their data transformations to meet evolving requirements, it is imperative to ensure that the new version of a workflow still produces the correct output. We motivate the need for workflows and describe the implementation of a validation tool called Diftong. This tool compares two..."
+    ],
+    "81": [
+        "Verifying big data topologies by-design: a semi-automated approach",
+        "Marcello M. Bersani, Francesco Marconi, Damian A. Tamburri, et al.",
+        "May 2019",
+        "Big data architectures have been gaining momentum in recent years. For instance, Twitter uses stream processing frameworks like Apache Storm to analyse billions of tweets per minute and learn the trending topics. However, architectures that process big data involve many different components interconnected via semantically different connectors. Such complex architectures make..."
+    ],
+    "82": [
+        "Detecting taxi movements using Random Swap clustering and sequential pattern mining",
+        "Rami Ibrahim, M. Omair Shafiq",
+        "May 2019",
+        "Moving objects such as people, animals, and vehicles have generated a large amount of spatiotemporal data by using location-capture technologies and mobile devices. This collected data needs to be processed, visualized and analyzed to transform raw trajectory data into useful knowledge. In this study, we build a system to deliver a set of traffic insights and recommendations by..."
+    ],
+    "83": [
+        "Fast implementation of pattern mining algorithms with time stamp uncertainties and temporal constraints",
+        "Sofya S. Titarenko, Valeriy N. Titarenko, Georgios Aivaliotis, et al.",
+        "May 2019",
+        "Pattern mining is a powerful tool for analysing big datasets. Temporal datasets include time as an additional parameter. This leads to complexity in algorithmic formulation, and it can be challenging to process such data quickly and efficiently. In addition, errors or uncertainty can exist in the timestamps of data, for example in manually recorded health data. Sometimes we wish..."
+    ],
+    "84": [
+        "The intrinsically linked future for human and Artificial Intelligence interaction",
+        "Anthony Miller",
+        "May 2019",
+        "No sleep! No sick days! No Holidays! alongside 24/7 around the clock tireless work, welcome to the world of Artificial Intelligence, how can humans match the phenomena of AI. Humanity is in the grip of an unstoppable, and exciting future with the future development of AI, humans must decide whether to ride on the coat-tails of AI or resist the inevitable change of the world as we..."
+    ],
+    "85": [
+        "Library adoption in public software repositories",
+        "Rachel Krohn, Tim Weninger",
+        "May 2019",
+        "We study the the spread and adoption of libraries within Python projects hosted in public software repositories on GitHub. By modelling the use of Git pull, merge, commit, and other actions as deliberate cognitive activities, we are able to better understand the dynamics of what happens when users adopt new and cognitively demanding information. For this task we introduce a large..."
+    ],
+    "86": [
+        "Evaluating partitioning and bucketing strategies for Hive-based Big Data Warehousing systems",
+        "Eduarda Costa, Carlos Costa, Maribel Yasmina Santos",
+        "May 2019",
+        "Hive has long been one of the industry-leading systems for Data Warehousing in Big Data contexts, mainly organizing data into databases, tables, partitions and buckets, stored on top of an unstructured distributed file system like HDFS. Some studies were conducted for understanding the ways of optimizing the performance of several storage systems for Big Data Warehousing. However..."
+    ],
+    "87": [
+        "Exploring the applicability of low-shot learning in mining software repositories",
+        "Jordan Ott, Abigail Atchison, Erik J. Linstead",
+        "May 2019",
+        "BackgroundDespite the well-documented and numerous recent successes of deep learning, the application of standard deep architectures to many classification problems within empirical software engineering remains problematic due to the large volumes of labeled data required for training. Here we make the argument that, for some problems, this hurdle can be overcome by taking..."
+    ],
+    "88": [
+        "Arabia Felix 2.0: a cross-linguistic Twitter analysis of happiness patterns in the United Arab Emirates",
+        "Aamna Al Shehhi, Justin Thomas, Roy Welsch, et al.",
+        "Apr 2019",
+        "The global popularity of social media platforms has given rise to unprecedented amounts of data, much of which reflects the thoughts, opinions and affective states of individual users. Systematic explorations of these large datasets can yield valuable information about a variety of psychological and sociocultural variables. The global nature of these platforms makes it important..."
+    ],
+    "89": [
+        "An intelligent Alzheimer’s disease diagnosis method using unsupervised feature learning",
+        "Firouzeh Razavi, Mohammad Jafar Tarokh, Mahmood Alborzi",
+        "Apr 2019",
+        "Today, the diagnosis of Alzheimer’s disease (AD) or mild cognitive impairment (MCI) has attracted the attention of researchers in this field owing to the increase in the occurrence of the diseases and the need for early diagnosis. Unfortunately, the nature of high dimension of neural data and few available samples led to the creation of a precise computer diagnostic system..."
+    ],
+    "90": [
+        "Detecting high indoor crowd density with Wi-Fi localization: a statistical mechanics approach",
+        "Sonja Georgievska, Philip Rutten, Jan Amoraal, et al.",
+        "Mar 2019",
+        "We address the problem of detecting highly raised crowd density in situations such as indoor dance events. We propose a new method for estimating crowd density by anonymous, non-participatory, indoor Wi-Fi localization of smart phones. Using a probabilistic model inspired by statistical mechanics, and relying only on big data analytics, we tackle three challenges: (1) the..."
+    ],
+    "91": [
+        "Enhanced Secured Map Reduce layer for Big Data privacy and security",
+        "Priyank Jain, Manasi Gyanchandani, Nilay Khare",
+        "Mar 2019",
+        "The publication and dissemination of raw data are crucial elements in commercial, academic, and medical applications. With an increasing number of open platforms, such as social networks and mobile devices from which data may be collected, the volume of such data has also increased over time move toward becoming as Big Data. The traditional model of Big Data does not specify any..."
+    ],
+    "92": [
+        "Bayesian mixture models and their Big Data implementations with application to invasive species presence-only data",
+        "Insha Ullah, Kerrie Mengersen",
+        "Mar 2019",
+        "Due to their conceptual simplicity and flexibility, non-parametric mixture models are widely used to identify latent clusters in data. However, when it comes to Big Data, such as Landsat imagery, such model fitting is computationally prohibitive. To overcome this issue, we fit Bayesian non-parametric models to pre-smoothed data, thereby reducing the computational time from days..."
+    ],
+    "93": [
+        "Customer churn prediction in telecom using machine learning in big data platform",
+        "Abdelrahim Kasem Ahmad, Assef Jafar, Kadan Aljoumaa",
+        "Mar 2019",
+        "Customer churn is a major problem and one of the most important concerns for large companies. Due to the direct effect on the revenues of the companies, especially in the telecom field, companies are seeking to develop means to predict potential customer to churn. Therefore, finding factors that increase customer churn is important to take necessary actions to reduce this churn..."
+    ],
+    "94": [
+        "Survey on deep learning with class imbalance",
+        "Justin M. Johnson, Taghi M. Khoshgoftaar",
+        "Mar 2019",
+        "The purpose of this study is to examine existing deep learning techniques for addressing class imbalanced data. Effective classification with imbalanced data is an important area of research, as high class imbalance is naturally inherent in many real-world applications, e.g., fraud detection and cancer detection. Moreover, highly imbalanced data poses added difficulty, as most..."
+    ],
+    "95": [
+        "HPCC based framework for COPD readmission risk analysis",
+        "Piyush Jain, Ankur Agarwal, Ravi Behara, et al.",
+        "Mar 2019",
+        "Prevention of hospital readmissions has the potential of providing better quality of care to the patients and deliver significant cost savings. A review of existing readmission analysis frameworks based on data type, data size, disease conditions, algorithms and other features shows that existing frameworks do not address the issue of using large amounts of data that is..."
+    ],
+    "96": [
+        "On the sustainability of smart and smarter cities in the era of big data: an interdisciplinary and transdisciplinary literature review",
+        "Simon Elias Bibri",
+        "Mar 2019",
+        "There has recently been a conscious push for cities across the globe to be smart and even smarter and thus more sustainable by developing and implementing big data technologies and their applications across various urban domains in the hopes of reaching the required level of sustainability and improving the living standard of citizens. Having gained momentum and traction as a..."
+    ],
+    "97": [
+        "Adaptive network diagram constructions for representing big data event streams on monitoring dashboards",
+        "Alexander V. Mantzaris, Thomas G. Walker, Cameron E. Taylor, et al.",
+        "Mar 2019",
+        "Critical systems that produce big data streams can require human operators to monitor these event streams for changes of interest. Automated systems which oversee many tasks can still have a need for the ‘human-in-the-loop’ operator to evaluate whether an intervention is required due to a lack of suitable training data initially offered to the system which would allow a correct..."
+    ],
+    "98": [
+        "Mining aspects of customer’s review on the social network",
+        "Tu Nguyen Thi Ngoc, Ha Nguyen Thi Thu, Viet Anh Nguyen",
+        "Feb 2019",
+        "This study represents an efficient method for extracting product aspects from customer reviews and give solutions for inferring aspect ratings and aspect weights. Aspect ratings often reflect the user’s satisfaction on aspects of a product and aspect weights reflect the degree of importance of the aspects posed by the user. These tasks therefore play a very important role for..."
+    ],
+    "99": [
+        "The effects of class rarity on the evaluation of supervised healthcare fraud detection models",
+        "Matthew Herland, Richard A. Bauder, Taghi M. Khoshgoftaar",
+        "Feb 2019",
+        "The United States healthcare system produces an enormous volume of data with a vast number of financial transactions generated by physicians administering healthcare services. This makes healthcare fraud difficult to detect, especially when there are considerably less fraudulent transactions (documented and readily available) than non-fraudulent. The ability to successfully..."
+    ],
+    "100": [
+        "Selecting a representative decision tree from an ensemble of decision-tree models for fast big data classification",
+        "Abraham Itzhak Weinberg, Mark Last",
+        "Feb 2019",
+        "The goal of this paper is to reduce the classification (inference) complexity of tree ensembles by choosing a single representative model out of ensemble of multiple decision-tree models. We compute the similarity between different models in the ensemble and choose the model, which is most similar to others as the best representative of the entire dataset. The similarity-based..."
+    ],
+    "101": [
+        "Gapprox: using Gallup approach for approximation in Big Data processing",
+        "Hossein Ahmadvand, Maziar Goudarzi, Fouzhan Foroutan",
+        "Feb 2019",
+        "As Big Data processing often takes a long time and needs a lot of resources, sampling and approximate computing techniques may be used to generate a desired Quality of Result. On the other hand, due to not considering data variety, available sample-based approximation approaches suffer from poor accuracy. Data variety is one of the key features of Big Data which causes various..."
+    ],
+    "102": [
+        "Hierarchical data fusion for Smart Healthcare",
+        "Rustem Dautov, Salvatore Distefano, Rajkumaar Buyya",
+        "Feb 2019",
+        "The Internet of Things (IoT) facilitates creation of smart spaces by converting existing environments into sensor-rich data-centric cyber-physical systems with an increasing degree of automation, giving rise to Industry 4.0. When adopted in commercial/industrial contexts, this trend is revolutionising many aspects of our everyday life, including the way people access and receive..."
+    ],
+    "103": [
+        "Predicting customer’s gender and age depending on mobile phone data",
+        "Ibrahim Mousa Al-Zuabi, Assef Jafar, Kadan Aljoumaa",
+        "Feb 2019",
+        "In the age of data driven solution, the customer demographic attributes, such as gender and age, play a core role that may enable companies to enhance the offers of their services and target the right customer in the right time and place. In the marketing campaign, the companies want to target the real user of the GSM (global system for mobile communications), not the line owner..."
+    ],
+    "104": [
+        "Application of variable selection and dimension reduction on predictors of MSE’s development",
+        "Habtamu Tilaye Wubetie",
+        "Feb 2019",
+        "Nature create variables using its character component, and variables are sharing characters from a vary small to relatively large scale. This results, variables to have from a vary different to a more similar character, and leads to have a relation ship. Literature suggested different relation measures based on the nature of variable and type of relation ship exist. Today, due to..."
+    ],
+    "105": [
+        "A parallel and distributed stochastic gradient descent implementation using commodity clusters",
+        "Robert K. L. Kennedy, Taghi M. Khoshgoftaar, Flavio Villanustre, et al.",
+        "Feb 2019",
+        "Deep Learning is an increasingly important subdomain of artificial intelligence, which benefits from training on Big Data. The size and complexity of the model combined with the size of the training dataset makes the training process very computationally and temporally expensive. Accelerating the training process of Deep Learning using cluster computers faces many challenges..."
+    ],
+    "106": [
+        "A survey on data storage and placement methodologies for Cloud-Big Data ecosystem",
+        "Somnath Mazumdar, Daniel Seybold, Kyriakos Kritikos, et al.",
+        "Feb 2019",
+        "Currently, the data to be explored and exploited by computing systems increases at an exponential rate. The massive amount of data or so-called “Big Data” put pressure on existing technologies for providing scalable, fast and efficient support. Recent applications and the current user support from multi-domain computing, assisted in migrating from data-centric to knowledge..."
+    ],
+    "107": [
+        "Identifying and characterizing the effects of calendar and environmental conditions on pediatric admissions in Shanghai",
+        "Guang-jun Yu, Jian-lei Gu, Wen-bin Cui, et al.",
+        "Feb 2019",
+        "BackgroundGlobal environmental pollution caused by human activities has become a threat to public health. Children are especially susceptible to adverse environmental conditions owing to their unique physiological and behavioral characteristics. A number of studies have demonstrated associations between the incidence of some childhood diseases and adverse environmental conditions..."
+    ],
+    "108": [
+        "Analysis of diabetes mellitus for early prediction using optimal features selection",
+        "N. Sneha, Tarun Gangil",
+        "Feb 2019",
+        "Diabetes is a chronic disease or group of metabolic disease where a person suffers from an extended level of blood glucose in the body, which is either the insulin production is inadequate, or because the body’s cells do not respond properly to insulin. The constant hyperglycemia of diabetes is related to long-haul harm, brokenness, and failure of various organs, particularly the..."
+    ],
+    "109": [
+        "Big Data and discrimination: perils, promises and solutions. A systematic review",
+        "Maddalena Favaretto, Eva De Clercq, Bernice Simone Elger",
+        "Feb 2019",
+        "BackgroundBig Data analytics such as credit scoring and predictive analytics offer numerous opportunities but also raise considerable concerns, among which the most pressing is the risk of discrimination. Although this issue has been examined before, a comprehensive study on this topic is still lacking. This literature review aims to identify studies on Big Data in relation to..."
+    ],
+    "110": [
+        "Data mining approach for predicting the daily Internet data traffic of a smart university",
+        "Aderibigbe Israel Adekitan, Jeremiah Abolade, Olamilekan Shobayo",
+        "Feb 2019",
+        "Internet traffic measurement and analysis generate dataset that are indicators of usage trends, and such dataset can be used for traffic prediction via various statistical analyses. In this study, an extensive analysis was carried out on the daily internet traffic data generated from January to December, 2017 in a smart university in Nigeria. The dataset analysed contains seven..."
+    ],
+    "111": [
+        "A quadri-dimensional approach for poor performance prioritization in mobile networks using Big Data",
+        "Maluambanzila Minerve Mampaka, Mbuyu Sumbwanyambe",
+        "Feb 2019",
+        "The Management of mobile networks has become so complex due to a huge number of devices, technologies and services involved. Network optimization and incidents management in mobile networks determine the level of the quality of service provided by the communication service providers (CSPs). Generally, the down time of a system and the time taken to repair [mean time to repair..."
+    ],
+    "112": [
+        "How to (better) find a perpetrator in a haystack",
+        "Yair Neuman, Yochai Cohen, Yiftach Neuman",
+        "Feb 2019",
+        "In many real-world contexts, there is a pressing need to automatically screen for potential perpetrators, such as school shooters, whose prevalence in the population is extremely low. We first explain one possible obstacle in addressing this challenge, which is the confusion between “recognition” and “localization” during a search process. Next, we present a pragmatic screening..."
+    ],
+    "113": [
+        "The impact of colleges and hospitals to local real estate markets",
+        "Ryan Rivas, Dinesh Patil, Vagelis Hristidis, et al.",
+        "Jan 2019",
+        "This paper studies how the presence of universities and hospitals influences local home prices and rents. We analyze the data on ZIP code level and on the level of individual homes. Our ZIP code-level analysis uses median home price data from 13,105 ZIP codes over 21 years and rent data from 15,918 ZIP codes over 7 years to compare a ZIP code’s appreciation, volatility and..."
+    ],
+    "114": [
+        "Investigating the adoption of big data analytics in healthcare: the moderating role of resistance to change",
+        "Muhammad Shahbaz, Changyuan Gao, LiLi Zhai, et al.",
+        "Jan 2019",
+        "Big data analytics is gaining substantial attention due to its innovative contribution to decision making and strategic development across the healthcare field. Therefore, this study explored the adoption mechanism of big data analytics in healthcare organizations to inspect elements correlated to behavioral intention using the technology acceptance model and task-technology fit..."
+    ],
+    "115": [
+        "Data mining combined to the multicriteria decision analysis for the improvement of road safety: case of France",
+        "Fatima Zahra El Mazouri, Mohammed Chaouki Abounaima, Khalid Zenkouar",
+        "Jan 2019",
+        "IntroductionThe problem studied in this paper is the road insecurity, which is manifested by the big number of injuries and deaths recorded annually around the world. These victims of road accidents worry the whole community, hence the duty and the need to find solutions for reducing the number of victims and material damage. The overall purpose of this case study is to treat the..."
+    ],
+    "116": [
+        "Knowledge discovery from a more than a decade studies on healthcare Big Data systems: a scientometrics study",
+        "Fatemeh Soleimani-Roozbahani, Ali Rajabzadeh Ghatari, Reza Radfar",
+        "Jan 2019",
+        "Annually, lots of research papers are published in scientific journals around the world. The knowledge of the status of research is a prerequisite for research planning and policy making. This type of knowledge could be gained through a scientometrics study on the published literature that analyzes research products in a scientific field. Always healthcare was a permanent concern..."
+    ],
+    "117": [
+        "Detecting and understanding urban changes through decomposing the numbers of visitors’ arrivals using human mobility data",
+        "Takashi Nicholas Maeda, Narushige Shiode, Chen Zhong, et al.",
+        "Jan 2019",
+        "In recent years, mobility data from smart cards, mobile phones and sensors have become increasingly available. However, they often lack some of the key information including the purposes of trips for each individual user. Information on trip purposes is crucial for projecting the future travel patterns as well as understanding the characteristics of each area of a city and how it..."
+    ],
+    "118": [
+        "Predicting referendum results in the Big Data Era",
+        "Amaryllis Mavragani, Konstantinos P. Tsagarakis",
+        "Jan 2019",
+        "In addressing the challenge of Big Data Analytics, what has been of notable significance is the analysis of online search traffic data in order to analyze and predict human behavior. Over the last decade, since the establishment of the most popular such tool, Google Trends, the use of online data has been proven valuable in various research fields, including -but not limited to..."
+    ],
+    "119": [
+        "Large-scale e-learning recommender system based on Spark and Hadoop",
+        "Karim Dahdouh, Ahmed Dakkak, Lahcen Oughdir, et al.",
+        "Jan 2019",
+        "The present work is a part of the ESTenLigne project which is the result of several years of experience for developing e-learning in Sidi Mohamed Ben Abdellah University through the implementation of open, online and adaptive learning environment. However, this platform faces many challenges, such as the increasing amount of data, the diversity of pedagogical resources and a..."
+    ],
+    "120": [
+        "Manufacturing process data analysis pipelines: a requirements analysis and survey",
+        "Ahmed Ismail, Hong-Linh Truong, Wolfgang Kastner",
+        "Jan 2019",
+        "Smart manufacturing is strongly correlated with the digitization of all manufacturing activities. This increases the amount of data available to drive productivity and profit through data-driven decision making programs. The goal of this article is to assist data engineers in designing big data analysis pipelines for manufacturing process data. Thus, this paper characterizes the..."
+    ],
+    "121": [
+        "The affordance of virtual reality to enable the sensory representation of multi-dimensional data for immersive analytics: from experience to insight",
+        "Jules Moloney, Branka Spehar, Anastasia Globa, et al.",
+        "Dec 2018",
+        "Using the theory of affordance from perceptual psychology and through discussion of literature within visual data mining and immersive analytics, a position for the multi-sensory representation of big data using virtual reality (VR) is developed. While it would seem counter intuitive, information-dense virtual environments are theoretically easier to process than simplified..."
+    ],
+    "122": [
+        "Pairwise document similarity measure based on present term set",
+        "Marzieh Oghbaie, Morteza Mohammadi Zanjireh",
+        "Dec 2018",
+        "Measuring pairwise document similarity is an essential operation in various text mining tasks. Most of the similarity measures judge the similarity between two documents based on the term weights and the information content that two documents share in common. However, they are insufficient when there exist several documents with an identical degree of similarity to a particular..."
+    ],
+    "123": [
+        "Prediction and analysis of Indonesia Presidential election from Twitter using sentiment analysis",
+        "Widodo Budiharto, Meiliana Meiliana",
+        "Dec 2018",
+        "Big data encompasses social networking websites including Twitter as popular micro-blogging social media platform for a political campaign. The explosive Twitter data as a respond of the political campaign can be used to predict the Presidential election as has been conducted to predict the political election in several countries such as US, UK, Spain, and French. The authors use..."
+    ],
+    "124": [
+        "A new effective method for labeling dynamic XML data",
+        "Eynollah Khanjari, Leila Gaeini",
+        "Dec 2018",
+        "Query processing based on labeling dynamic XML documents has gained more attention in the past several years. An efficient labeling scheme should provide small size labels keeping the simplicity of the exploited algorithm in order to avoid complex computations as well as retaining the readability of structural relationships between nodes. Moreover, for dynamic XML data..."
+    ],
+    "125": [
+        "Building efficient fuzzy regression trees for large scale and high dimensional problems",
+        "Javier Cózar, Francesco Marcelloni, José A. Gámez, et al.",
+        "Dec 2018",
+        "Regression trees (RTs) are simple, but powerful models, which have been widely used in the last decades in different scopes. Fuzzy RTs (FRTs) add fuzziness to RTs with the aim of dealing with uncertain environments. Most of the FRT learning approaches proposed in the literature aim to improve the accuracy, measured in terms of mean squared error, and often neglect to consider the..."
+    ],
+    "126": [
+        "ANN based short-term traffic flow forecasting in undivided two lane highway",
+        "Bharti Sharma, Sachin Kumar, Prayag Tiwari, et al.",
+        "Dec 2018",
+        "Short term traffic forecasting is one of the important fields of study in the transportation domain. Short term traffic forecasting is very useful to develop a more advanced transportation system to control traffic signals and avoid congestions. Several studies have made efforts for short term traffic flow forecasting for divided and undivided highways across the world. However..."
+    ],
+    "127": [
+        "A method of trend forecasting for financial and geopolitical data: inferring the effects of unknown exogenous variables",
+        "Lucas Cassiel Jacaruso",
+        "Dec 2018",
+        "This paper intends to contribute to the field of trend forecasting by proposing a new forecasting approach for stock market prices and geopolitical time series data of economic, financial and geopolitical importance. Designing models which account for every possible exogenous variable of relevance to a time series in question can often be an onerous and impractical task. Instead..."
+    ],
+    "128": [
+        "Automatic schema suggestion model for NoSQL document-stores databases",
+        "Abdullahi Abubakar Imam, Shuib Basri, Rohiza Ahmad, et al.",
+        "Dec 2018",
+        "New generation databases also called NoSQL (Not only SQL) databases are highly scalable, flexible, and low-latent. These types of databases emerge as a result of the rigidity shown by traditional databases to handle today’s data which is voluminous, highly diversified and generated at a very high rate. With NoSQL, problems such as database expansion difficulties, low query..."
+    ],
+    "129": [
+        "The Hiperwall tiled-display wall system for Big-Data research",
+        "Muhammad Saleem, Hugo E. Valle, Stephen Brown, et al.",
+        "Oct 2018",
+        "In the era of Big Data, with the increasing use of large-scale data-driven applications, visualization of very large high-resolution images and extracting useful information (searching for specific targets or rare signal events) from these images can pose challenges to the current display wall technologies. At Bellarmine University, we have set up an Advanced Visualization and..."
+    ],
+    "130": [
+        "Chabok: a Map-Reduce based method to solve data warehouse problems",
+        "Mohammadhossein Barkhordari, Mahdi Niamanesh",
+        "Oct 2018",
+        "Currently, immense quantities of data cannot be managed by traditional database management systems. Instead, they must be managed by big data solutions using shared nothing architectures. Data warehouse systems are systems that address very large amounts of information. The most prominent data warehouse model is star schema, which consists of a fact table and some number of..."
+    ],
+    "131": [
+        "TSim: a system for discovering similar users on Twitter",
+        "Hind AlMahmoud, Shurug AlKhalifa",
+        "Oct 2018",
+        "This paper presents a framework for discovering similar users on Twitter that can be used in profiling users for social, recruitment and security reasons. The framework contains a novel formula that calculates the similarity between users on Twitter by using seven different signals (features). The signals are followings and followers, mention, retweet, favorite, common hashtag..."
+    ],
+    "132": [
+        "Experimenting sensitivity-based anonymization framework in apache spark",
+        "Mohammed Al-Zobbi, Seyed Shahrestani, Chun Ruan",
+        "Oct 2018",
+        "One of the biggest concerns of big data and analytics is privacy. We believe the forthcoming frameworks and theories will establish several solutions for the privacy protection. One of the known solutions is the k-anonymity that was introduced for traditional data. Recently, two major frameworks leveraged big data processing and applications; these are MapReduce and Spark. Spark..."
+    ],
+    "133": [
+        "Joint index vector: a novel assessment measure for stratified medicine in patients with rheumatoid arthritis",
+        "Susumu Nishiyama, Tetsuji Sawada, Jinju Nishino, et al.",
+        "Oct 2018",
+        "ObjectiveTo predict the next-year status in patients with rheumatoid arthritis using big data.MethodsJoint index (JI) of upper/large (UL), upper/small (US), lower/large (LL), and lower/small (LS) was calculated as the sum of tender and swollen joint counts divided by the number of evaluable joints in each region of interest. Joint index vector V (x, y, z) was defined as x = JIUL..."
+    ],
+    "134": [
+        "Evaluation of high-level query languages based on MapReduce in Big Data",
+        "Marouane Birjali, Abderrahim Beni-Hssane, Mohammed Erritali",
+        "Oct 2018",
+        "MapReduce (MR) is a criterion of Big Data processing model with parallel and distributed large datasets. This model knows difficult problems related to low-level and batch nature of MR that gives rise to an abstraction layer on the top of MR. Therefore; several High-Level MapReduce Query Languages built on the top of MR provide more abstract query languages and extend the MR..."
+    ],
+    "135": [
+        "An intuitionistic fuzzy diagnosis analytics for stroke disease",
+        "Taufik Djatna, Medria Kusuma Dewi Hardhienata, Anis Fitri Nur Masruriyah",
+        "Oct 2018",
+        "One of the challenges in diagnosing stroke disease is the lack of useful analysis tool to identify critical stroke data that contains hidden relationships and trends from a vast amount of data. In order to address this problem, we proposed Intuitionistic Fuzzy Based Decision Tree in order to diagnosis the different types of stroke disease. The approach is implemented by mapping..."
+    ],
+    "136": [
+        "Intrusion detection model using machine learning algorithm on Big Data environment",
+        "Suad Mohammed Othman, Fadl Mutaher Ba-Alwi, Nabeel T. Alsohybe, et al.",
+        "Sep 2018",
+        "Recently, the huge amounts of data and its incremental increase have changed the importance of information security and data analysis systems for Big Data. Intrusion detection system (IDS) is a system that monitors and analyzes data to detect any intrusion in the system or network. High volume, variety and high speed of data generated in the network have made the data analysis..."
+    ],
+    "137": [
+        "Privacy preservation techniques in big data analytics: a survey",
+        "P. Ram Mohan Rao, S. Murali Krishna, A. P. Siva Kumar",
+        "Sep 2018",
+        "Incredible amounts of data is being generated by various organizations like hospitals, banks, e-commerce, retail and supply chain, etc. by virtue of digital technology. Not only humans but machines also contribute to data in the form of closed circuit television streaming, web site logs, etc. Tons of data is generated every minute by social media and smart phones. The voluminous..."
+    ],
+    "138": [
+        "Step away from stepwise",
+        "Gary Smith",
+        "Sep 2018",
+        "BackgroundStepwise regression is a popular data-mining tool that uses statistical significance to select the explanatory variables to be used in a multiple-regression model.FindingsA fundamental problem with stepwise regression is that some real explanatory variables that have causal effects on the dependent variable may happen to not be statistically significant, while nuisance..."
+    ],
+    "139": [
+        "Big Data fraud detection using multiple medicare data sources",
+        "Matthew Herland, Taghi M. Khoshgoftaar, Richard A. Bauder",
+        "Sep 2018",
+        "In the United States, advances in technology and medical sciences continue to improve the general well-being of the population. With this continued progress, programs such as Medicare are needed to help manage the high costs associated with quality healthcare. Unfortunately, there are individuals who commit fraud for nefarious reasons and personal gain, limiting Medicare’s..."
+    ],
+    "140": [
+        "A MapReduce-based Adjoint method for preventing brain disease",
+        "Manal Zettam, Jalal Laassiri, Nourddine Enneya",
+        "Aug 2018",
+        "In this paper, we present a statistical model performed on the basis of a patient dataset. This model predicts efficiently the brain disease risk. Multiple regression was used to build the statistical model. The least squares estimation problem usually used to estimate the parameters of regression model is solved via parallelized algebraic Adjoint method. As the parallelized..."
+    ],
+    "141": [
+        "Kavosh: an effective Map-Reduce-based association rule mining method",
+        "Mohammadhossein Barkhordari, Mahdi Niamanesh",
+        "Jul 2018",
+        "The immense amount of data generated on a daily basis by various devices and systems necessitates a change in data analysis methods. As an important part of analytics, data mining methods require a paradigm shift to solve problems because the old methods cannot manage massive data. Association rule mining is a data mining algorithm used to solve various domain problems. Because..."
+    ],
+    "142": [
+        "DIMPL: a distributed in-memory drone flight path builder system",
+        "Manu Shukla, Zhiqian Chen, Chang-Tien Lu",
+        "Jul 2018",
+        "Drones are increasingly being used to perform risky and labor intensive aerial tasks cheaply and safely. To ensure operating costs are low and flights autonomous, their flight plans must be pre-built. In existing techniques drone flight paths are not automatically pre-calculated based on drone capabilities and terrain information. Instead, they focus on adaptive shortest paths..."
+    ],
+    "143": [
+        "Anomaly behaviour detection based on the meta-Morisita index for large scale spatio-temporal data set",
+        "Zhao Yang, Nathalie Japkowicz",
+        "Jul 2018",
+        "In this paper, we propose a framework for processing and analysing large-scale spatio-temporal data that uses a battery of machine learning methods based on a meta-data representation of point patterns. Existing spatio-temporal analysis methods do not include a specific mechanism for analysing meta-data (point pattern information). In this work, we extend a spatial point pattern..."
+    ],
+    "144": [
+        "Privacy preserving data publishing based on sensitivity in context of Big Data using Hive",
+        "P. Srinivasa Rao, S. Satyanarayana",
+        "Jul 2018",
+        "Privacy preserving data publication is the main concern in present days, because the data being published through internet has been increasing day by day. This huge amount of data was named as Big Data by its size. This project deals with the privacy preservation in context of big data using a data warehousing solution called hive. We implemented nearest similarity based..."
+    ],
+    "145": [
+        "A non-parametric maximum for number of selected features: objective optima for FDR and significance threshold with application to ordinal survey analysis",
+        "Amir Hassan Ghaseminejad Tafreshi",
+        "May 2018",
+        "This paper identifies a criterion for choosing an optimum set of selected features, or rejected null hypotheses, in high-dimensional data analysis. The method is designed for dimension reduction with multiple hypothesis testing used in filtering process of big data, and in exploratory research, to identify significant associations among many predictor variables and few outcomes..."
+    ],
+    "146": [
+        "Cross-domain graph based similarity measurement of workflows",
+        "Tahereh Koohi-Var, Morteza Zahedi",
+        "May 2018",
+        "The aim of this article is to analyze search and retrieval of workflows. It represents workflows relatedness based on transfer learning. Workflows from different domains (e.g. scientific or business) have similarities and, more important, differences between themselves. Some concepts and solutions developed in one domain may be readily applicable to the other. This paper proposes..."
+    ],
+    "147": [
+        "Forecasting AIDS prevalence in the United States using online search traffic data",
+        "Amaryllis Mavragani, Gabriela Ochoa",
+        "May 2018",
+        "Over the past decade and with the increasing use of the Internet, the assessment of health issues using online search traffic data has become an integral part of Health Informatics. Internet data in general and from Google Trends in particular have been shown to be valid and valuable in predictions, forecastings, and nowcastings; and in detecting, tracking, and monitoring..."
+    ],
+    "148": [
+        "The MapReduce-based approach to improve the shortest path computation in large-scale road networks: the case of A* algorithm",
+        "Wilfried Yves Hamilton Adoni, Tarik Nahhal, Brahim Aghezzaf, et al.",
+        "May 2018",
+        "This paper deals with an efficient parallel and distributed framework for intensive computation with A* algorithm based on MapReduce concept. The A* algorithm is one of the most popular graph traversal algorithm used in route guidance. It requires exponential time computation and very costly hardware to compute the shortest path on large-scale networks. Thus, it is necessary to..."
+    ],
+    "149": [
+        "Differential privacy: its technological prescriptive using big data",
+        "Priyank Jain, Manasi Gyanchandani, Nilay Khare",
+        "Apr 2018",
+        "Data is being produced in large amounts and in rapid pace which is diverse in quality, hence, the term big data used. Now, big data has started to influence modern day life in almost every sphere, be it business, education or healthcare. Data being a part and parcel of everyday life, privacy has become a topic requiring emphasis. Privacy can be defined as the capacity of a person..."
+    ],
+    "150": [
+        "SemLinker: automating big data integration for casual users",
+        "Hassan Alrehamy, Coral Walker",
+        "Mar 2018",
+        "A data integration approach combines data from different sources and builds a unified view for the users. Big data integration inherently is a complex task, and the existing approaches are either potentially limited or invariably rely on manual inputs and interposition from experts or skilled users. SemLinker, an ontology-based data integration system, is part of a metadata..."
+    ],
+    "151": [
+        "Efficiency of random swap clustering",
+        "Pasi Fränti",
+        "Mar 2018",
+        "Random swap algorithm aims at solving clustering by a sequence of prototype swaps, and by fine-tuning their exact location by k-means. This randomized search strategy is simple to implement and efficient. It reaches good quality clustering relatively fast, and if iterated longer, it finds the correct clustering with high probability. In this paper, we analyze the expected number..."
+    ],
+    "152": [
+        "A novel adaptable approach for sentiment analysis on big social data",
+        "Imane El Alaoui, Youssef Gahi, Rochdi Messoussi, et al.",
+        "Mar 2018",
+        "Gathering public opinion by analyzing big social data has attracted wide attention due to its interactive and real time nature. For this, recent studies have relied on both social media and sentiment analysis in order to accompany big events by tracking people’s behavior. In this paper, we propose an adaptable sentiment analysis approach that analyzes social media posts and..."
+    ],
+    "153": [
+        "Concept and benchmark results for Big Data energy forecasting based on Apache Spark",
+        "Jorge Ángel González Ordiano, Andreas Bartschat, Nicole Ludwig, et al.",
+        "Mar 2018",
+        "The present article describes a concept for the creation and application of energy forecasting models in a distributed environment. Additionally, a benchmark comparing the time required for the training and application of data-driven forecasting models on a single computer and a computing cluster is presented. This comparison is based on a simulated dataset and both R and Apache..."
+    ],
+    "154": [
+        "GraphZIP: a clique-based sparse graph compression method",
+        "Ryan A. Rossi, Rong Zhou",
+        "Mar 2018",
+        "Massive graphs are ubiquitous and at the heart of many real-world problems and applications ranging from the World Wide Web to social networks. As a result, techniques for compressing graphs have become increasingly important and remains a challenging and unsolved problem. In this work, we propose a graph compression and encoding framework called GraphZIP based on the observation..."
+    ],
+    "155": [
+        "Who is behind the wheel? Driver identification and fingerprinting",
+        "Saad Ezzini, Ismail Berrada, Mounir Ghogho",
+        "Feb 2018",
+        "In the last decade, significant advances have been made in sensing and communication technologies. Such progress led to a considerable growth in the development and use of intelligent transportation systems. Characterizing driving styles of drivers using in-vehicle sensor data is an interesting research problem and an essential real-world requirement for automotive industries. A..."
+    ],
+    "156": [
+        "StreamAligner: a streaming based sequence aligner on Apache Spark",
+        "Sanjay Rathee, Arti Kashyap",
+        "Feb 2018",
+        "Next-Generation Sequencing technologies are generating a huge amount of genetic data that need to be mapped and analyzed. Single machine sequence alignment tools are becoming incapable or inefficient in keeping track of the same. Therefore, distributed computing platforms based on MapReduce paradigm, which uses thousands of commodity machines to process and analyze huge datasets..."
+    ],
+    "157": [
+        "Bayesian count regression analysis for determinants of antenatal care service visits among pregnant women in Amhara regional state, Ethiopia",
+        "Mekuanint Simeneh Workie, Ayenew Molla Lakew",
+        "Feb 2018",
+        ""
+    ],
+    "158": [
+        "Adaptive-Miner: an efficient distributed association rule mining algorithm on Spark",
+        "Sanjay Rathee, Arti Kashyap",
+        "Feb 2018",
+        "Extraction of valuable data from extensive datasets is a standout amongst the most vital exploration issues. Association rule mining is one of the highly used methods for this purpose. Finding possible associations between items in large transaction based datasets (finding frequent itemsets) is most crucial part of the association rule mining task. Many single-machine based..."
+    ],
+    "159": [
+        "A new approach to the space–time analysis of big data: application to subway traffic data in Seoul",
+        "Kwang-Yul Kim, Chae-Young Lim, Eunice J. Kim",
+        "Feb 2018",
+        "A prevalent type of big data is in the form of space–time measurements. Cyclostationary empirical orthogonal function (CSEOF) analysis is introduced as an efficient and valuable technique to interpret space–time structure of variability in a big dataset. CSEOF analysis is demonstrated to be a powerful tool in understanding the space–time structure of variability, when data..."
+    ],
+    "160": [
+        "Big Data: Deep Learning for financial sentiment analysis",
+        "Sahar Sohangir, Dingding Wang, Anna Pomeranets, et al.",
+        "Jan 2018",
+        "Deep Learning and Big Data analytics are two focal points of data science. Deep Learning models have achieved remarkable results in speech recognition and computer vision in recent years. Big Data is important for organizations that need to collect a huge amount of data like a social network and one of the greatest assets to use Deep Learning is analyzing a massive amount of data..."
+    ],
+    "161": [
+        "Investigating important urban characteristics in the formation of urban heat islands: a machine learning approach",
+        "Sanglim Yoo",
+        "Jan 2018",
+        "Despite the urban heat islands phenomenon has long been recognized as a major urban environmental problem, it was not until recently that this urban phenomenon gained attention from the discipline of urban planning. To integrate the findings of the urban heat islands research into the planning practice, the relationship between land surface temperatures and urban physical and..."
+    ],
+    "162": [
+        "Big healthcare data: preserving security and privacy",
+        "Karim Abouelmehdi, Abderrahim Beni-Hessane, Hayat Khaloufi",
+        "Jan 2018",
+        "Big data has fundamentally changed the way organizations manage, analyze and leverage data in any industry. One of the most promising fields where big data can be applied to make a change is healthcare. Big healthcare data has considerable potential to improve patient outcomes, predict outbreaks of epidemics, gain valuable insights, avoid preventable diseases, reduce the cost of..."
+    ],
+    "163": [
+        "Scaling associative classification for very large datasets",
+        "Luca Venturini, Elena Baralis, Paolo Garza",
+        "Dec 2017",
+        "Supervised learning algorithms are nowadays successfully scaling up to datasets that are very large in volume, leveraging the potential of in-memory cluster-computing Big Data frameworks. Still, massive datasets with a number of large-domain categorical features are a difficult challenge for any classifier. Most off-the-shelf solutions cannot cope with this problem. In this work..."
+    ],
+    "164": [
+        "Improved classification of large imbalanced data sets using rationalized technique: Updated Class Purity Maximization Over_Sampling Technique (UCPMOT)",
+        "Sachin S. Patil, Shefali P. Sonavane",
+        "Dec 2017",
+        "The huge variety of NoSQL Big Data has tossed a need for new pathways to store, process and analyze it. The quantum of data created is inconceivable along with a mixed breath of unknown veracity and creative visualization. The new trials of frameworks help to find substantial unidentified values from massive data sets. They have added an exceptional dimension to the pre..."
+    ],
+    "165": [
+        "Missing data management and statistical measurement of socio-economic status: application of big data",
+        "Habtamu Tilaye Wubetie",
+        "Dec 2017",
+        "Socio-economic status measurement is an ongoing problem where different suggested measurements are given by researchers. This work investigates a socio-economic status measurement derived from natural correlations of variables which can better and meaningfully cluster African countries for the level of status. The researcher used 48 African countries socio-economic yearly time..."
+    ],
+    "166": [
+        "A clustering algorithm for multivariate data streams with correlated components",
+        "Giacomo Aletti, Alessandra Micheletti",
+        "Dec 2017",
+        "Common clustering algorithms require multiple scans of all the data to achieve convergence, and this is prohibitive when large databases, with data arriving in streams, must be processed. Some algorithms to extend the popular K-means method to the analysis of streaming data are present in literature since 1998 (Bradley et al. in Scaling clustering algorithms to large databases..."
+    ],
+    "167": [
+        "A computing platform for pairs-trading online implementation via a blended Kalman-HMM filtering approach",
+        "Anton Tenyakov, Rogemar Mamon",
+        "Dec 2017",
+        "This paper addresses the problem of designing an efficient platform for pairs-trading implementation in real time. Capturing the stylised features of a spread process, i.e., the evolution of the differential between the returns from a pair of stocks, exhibiting a heavy-tailed mean-reverting process is also dealt with. Likewise, the optimal recovery of time-varying parameters in a..."
+    ],
+    "168": [
+        "Improving MapReduce privacy by implementing multi-dimensional sensitivity-based anonymization",
+        "Mohammed Al-Zobbi, Seyed Shahrestani, Chun Ruan",
+        "Dec 2017",
+        "Big data is predominantly associated with data retrieval, storage, and analytics. Data analytics is prone to privacy violations and data disclosures, which can be partly attributed to the multi-user characteristics of big data environments. Adversaries may link data to external resources, try to access confidential data, or deduce private information from the large number of data..."
+    ],
+    "169": [
+        "Some dimension reduction strategies for the analysis of survey data",
+        "Jiaying Weng, Derek S. Young",
+        "Dec 2017",
+        "In the era of big data, researchers interested in developing statistical models are challenged with how to achieve parsimony. Usually, some sort of dimension reduction strategy is employed. Classic strategies are often in the form of traditional inference procedures, such as hypothesis testing; however, the increase in computing capabilities has led to the development of more..."
+    ],
+    "170": [
+        "Mining and prioritization of association rules for big data: multi-criteria decision analysis approach",
+        "Addi Ait-Mlouk, Tarik Agouti, Fatima Gharnati",
+        "Nov 2017",
+        "Data mining techniques and extracting patterns from large datasets play a vital role in knowledge discovery. Most of the decision makers encounter a large number of decision rules resulted from association rules mining. Moreover, the volume of datasets brings a new challenge to extract patterns such as the cost of computing and inefficiency to achieve the relevant rules. To..."
+    ],
+    "171": [
+        "HCudaBLAST: an implementation of BLAST on Hadoop and Cuda",
+        "Nilay Khare, Alind Khare, Farhan Khan",
+        "Nov 2017",
+        "The world of DNA sequencing has not only been a difficult field since it was first worked upon, but it is also growing at an exponential rate. The amount of data involved in DNA searching is huge, thereby normal tools or algorithms are not suitable to handle this degree of data processing. BLAST is a tool given by National Center for Biotechnology Information (NCBI) to compare..."
+    ],
+    "172": [
+        "Understanding deep learning via backtracking and deconvolution",
+        "Xing Fang",
+        "Nov 2017",
+        "Convolutional neural networks are widely adopted for solving problems in image classification. In this work, we aim to gain a better understanding of deep learning through exploring the miss-classified cases in facial and emotion recognitions. Particularly, we propose the backtracking algorithm in order to track down the activated pixels among the last layer of feature maps. We..."
+    ],
+    "173": [
+        "The core enabling technologies of big data analytics and context-aware computing for smart sustainable cities: a review and synthesis",
+        "Simon Elias Bibri, John Krogstie",
+        "Nov 2017",
+        "Data sensing, information processing, and networking technologies are being fast embedded into the very fabric of the contemporary city to enable the use of innovative solutions to overcome the challenges of sustainability and urbanization. This has been boosted by the new digital transition in ICT. Driving such transition predominantly are big data analytics and context-aware..."
+    ],
+    "174": [
+        "An algorithm for identification of natural disaster affected area",
+        "M. V. Sangameswar, M. Nagabhushana Rao, S. Satyanarayana",
+        "Nov 2017",
+        "An important source of information presently is social media, which reports any major event including natural disasters. Social media also includes conversational data. As a result, the volume of data on social media has an enormous increase. During the time of natural disaster like floods, tsunami, earthquake, landslide, etc., people require information in those situations, so..."
+    ],
+    "175": [
+        "A framework for the estimation and reduction of hospital readmission penalties using predictive analytics",
+        "Christopher Baechle, Ankur Agarwal",
+        "Nov 2017",
+        "BackgroundRecent US legislation imposes financial penalties on hospitals with excessive patient readmissions. Predictive analytics for hospital readmissions have seen an increase in research due to the passage of this legislation. However, many current systems ignore the formulas used by the Centers for Medicare and Medicaid Services for imposing penalties. This research expands..."
+    ],
+    "176": [
+        "Mining and visualising contradictory data",
+        "Honour Chika Nwagwu, George Okereke, Chukwuemeka Nwobodo",
+        "Oct 2017",
+        "Big datasets are often stored in flat files and can contain contradictory data. Contradictory data undermines the soundness of the information from a noisy dataset. Traditional tools such as pie chart and bar chart are overwhelmed when used to visually identify contradictory data in multidimensional attribute-values of a big dataset. This work explains the importance of..."
+    ],
+    "177": [
+        "Learning topic description from clustering of trusted user roles and event models characterizing distributed provenance networks: a reinforcement learning approach",
+        "Sanjoy Kumar Mukherjee, Sivaji Bandyopadhyay",
+        "Oct 2017",
+        "This paper proposes a reinforcement learning based message transfer model for transferring news report messages through a selected path in a trusted provenance network with the objective of maximizing the reward values based on trust or importance based and network congestion or utility based cost measures. The reward values are calculated along a dynamically defined policy path..."
+    ],
+    "178": [
+        "Using deep learning for short text understanding",
+        "Justin Zhan, Binay Dahal",
+        "Oct 2017",
+        "Classifying short texts to one category or clustering semantically related texts is challenging, and the importance of both is growing due to the rise of microblogging platforms, digital news feeds, and the like. We can accomplish this classifying and clustering with the help of a deep neural network which produces compact binary representations of a short text, and can assign..."
+    ],
+    "179": [
+        "Adaptive memory-based single distribution resampling for particle filter",
+        "Wan Mohd Yaakob Wan Bejuri, Mohd Murtadha Mohamad, Raja Zahilah Raja Mohd Radzi, et al.",
+        "Oct 2017",
+        "The restrictions that are related to using single distribution resampling for some specific computing devices’ memory gives developers several difficulties as a result of the increased effort and time needed for the development of a particle filter. Thus, one needs a new sequential resampling algorithm that is flexible enough to allow it to be used with various computing devices..."
+    ],
+    "180": [
+        "Dimensionality reduction and class prediction algorithm with application to microarray Big Data",
+        "Fadoua Badaoui, Amine Amar, Laila Ait Hassou, et al.",
+        "Oct 2017",
+        "The recent technology development in the concern of microarray experiments has provided many new potentialities in terms of simultaneous measurement. But new challenges have arisen from these massive quantities of information qualified as Big Data. The challenge consists to extract the main information containing the sense from the data. To this end researchers are using various..."
+    ],
+    "181": [
+        "A novel hybrid model based on Hodrick–Prescott filter and support vector regression algorithm for optimizing stock market price prediction",
+        "Meryem Ouahilal, Mohammed El Mohajir, Mohamed Chahhou, et al.",
+        "Oct 2017",
+        "Predicting stock market price is considered as a challenging task of financial time series analysis, which is of great interest to stock investors, stock traders and applied researchers. Many machine learning techniques have been used in this area to predict the stock market price, including regression algorithms which can be useful tools to provide good performance of financial..."
+    ],
+    "182": [
+        "A bibliometric approach to tracking big data research trends",
+        "Ali Kalantari, Amirrudin Kamsin, Halim Shukri Kamaruddin, et al.",
+        "Oct 2017",
+        "The explosive growing number of data from mobile devices, social media, Internet of Things and other applications has highlighted the emergence of big data. This paper aims to determine the worldwide research trends on the field of big data and its most relevant research areas. A bibliometric approach was performed to analyse a total of 6572 papers including 28 highly cited..."
+    ],
+    "183": [
+        "A survey on heterogeneous transfer learning",
+        "Oscar Day, Taghi M. Khoshgoftaar",
+        "Sep 2017",
+        "Transfer learning has been demonstrated to be effective for many real-world applications as it exploits knowledge present in labeled training data from a source domain to enhance a model’s performance in a target domain, which has little or no labeled target training data. Utilizing a labeled source, or auxiliary, domain for aiding a target task can greatly reduce the cost and..."
+    ],
+    "184": [
+        "Clustering categorical data based on the relational analysis approach and MapReduce",
+        "Yasmine Lamari, Said Chah Slaoui",
+        "Sep 2017",
+        "The traditional methods of clustering are unable to cope with the exploding volume of data that the world is currently facing. As a solution to this problem, the research is intensified in the direction of parallel clustering methods. Although there is a variety of parallel programming models, the MapReduce paradigm is considered as the most prominent model for problems of large..."
+    ],
+    "185": [
+        "Clustering large datasets using K-means modified inter and intra clustering (KM-I2C) in Hadoop",
+        "Chowdam Sreedhar, Nagulapally Kasiviswanath, Pakanti Chenna Reddy",
+        "Sep 2017",
+        "Big data has become popular for processing, storing and managing massive volumes of data. The clustering of datasets has become a challenging issue in the field of big data analytics. The K-means algorithm is best suited for finding similarities between entities based on distance measures with small datasets. Existing clustering algorithms require scalable solutions to manage..."
+    ],
+    "186": [
+        "Survey on clinical prediction models for diabetes prediction",
+        "N. Jayanthi, B. Vijaya Babu, N. Sambasiva Rao",
+        "Aug 2017",
+        "Predictive analytics has gained a lot of reputation in the emerging technology Big data. Predictive analytics is an advanced form of analytics. Predictive analytics goes beyond data mining. A huge amount of medical data is available today regarding the disease, their symptoms, reasons for illness, and their effects on health. But this data is not analysed properly to predict or..."
+    ],
+    "187": [
+        "Improved sqrt-cosine similarity measurement",
+        "Sahar Sohangir, Dingding Wang",
+        "Jul 2017",
+        "Text similarity measurement aims to find the commonality existing among text documents, which is fundamental to most information extraction, information retrieval, and text mining problems. Cosine similarity based on Euclidean distance is currently one of the most widely used similarity measurements. However, Euclidean distance is generally not an effective metric for dealing..."
+    ],
+    "188": [
+        "iiHadoop: an asynchronous distributed framework for incremental iterative computations",
+        "Afaf G. Bin Saadon, Hoda M. O. Mokhtar",
+        "Jul 2017",
+        "It is true that data is never static; it keeps growing and changing over time. New data is added and old data can either be modified or deleted. This incremental nature of data motivates the development of new systems to perform large-scale data computations incrementally. MapReduce was recently introduced to provide an efficient approach for handling large-scale data..."
+    ],
+    "189": [
+        "Large-scale distributed L-BFGS",
+        "Maryam M. Najafabadi, Taghi M. Khoshgoftaar, Flavio Villanustre, et al.",
+        "Jul 2017",
+        "With the increasing demand for examining and extracting patterns from massive amounts of data, it is critical to be able to train large models to fulfill the needs that recent advances in the machine learning area create. L-BFGS (Limited-memory Broyden Fletcher Goldfarb Shanno) is a numeric optimization method that has been effectively used for parameter estimation to train..."
+    ],
+    "190": [
+        "Horizontally scalable probabilistic generalized suffix tree (PGST) based route prediction using map data and GPS traces",
+        "Vishnu Shankar Tiwari, Arti Arya",
+        "Jul 2017",
+        "Route prediction is an essential requirement for many intelligent transport systems (ITS) services like VANETS, traffic congestion estimation, resource prediction in grid computing etc. This work focuses on building an end-to-end horizontally scalable route prediction application based on statistical modeling of user travel data. Probabilistic suffix tree (PST) is one of widely..."
+    ],
+    "191": [
+        "Big data analytics: does organizational factor matters impact technology acceptance?",
+        "Vitor Brock, Habib Ullah Khan",
+        "Jul 2017",
+        "Ever since the emergence of big data concept, researchers have started applying the concept to various fields and tried to assess the level of acceptance of it with renown models like technology acceptance model (TAM) and it variations. In this regard, this paper tries to look at the factors that associated with the usage of big data analytics, by synchronizing TAM with..."
+    ],
+    "192": [
+        "Analysis of agriculture data using data mining techniques: application of big data",
+        "Jharna Majumdar, Sneha Naraseeyappa, Shilpa Ankalaki",
+        "Jul 2017",
+        "In agriculture sector where farmers and agribusinesses have to make innumerable decisions every day and intricate complexities involves the various factors influencing them. An essential issue for agricultural planning intention is the accurate yield estimation for the numerous crops involved in the planning. Data mining techniques are necessary approach for accomplishing..."
+    ],
+    "193": [
+        "Theory-driven or process-driven prediction? Epistemological challenges of big data analytics",
+        "Ahmed Elragal, Ralf Klischewski",
+        "Jun 2017",
+        "Most scientists are accustomed to make predictions based on consolidated and accepted theories pertaining to the domain of prediction. However, nowadays big data analytics (BDA) is able to deliver predictions based on executing a sequence of data processing while seemingly abstaining from being theoretically informed about the subject matter. This paper discusses how to deal with..."
+    ],
+    "194": [
+        "Host managed contention avoidance storage solutions for Big Data",
+        "Pratik Mishra, Arun K. Somani",
+        "Jun 2017",
+        "The performance gap between compute and storage is fairly considerable. This results in a mismatch between the application needs from storage and what storage can deliver. The full potential of storage devices cannot be harnessed till all layers of I/O hierarchy function efficiently. Despite advanced optimizations applied across various layers along the odyssey of data access..."
+    ],
+    "195": [
+        "DERIV: distributed brand perception tracking framework",
+        "Manu Shukla, Raimundo Dos Santos, Andrew Fong, et al.",
+        "Jun 2017",
+        "Determining user’s perception of a brand in short periods of time has become crucial for business. Distilling brand perception directly from people’s comments in social media has promise. Current techniques for determining brand perception, such as surveys of handpicked users by mail, in person, phone or online, are time consuming and increasingly inadequate. The DERIV system..."
+    ],
+    "196": [
+        "Identification of top-K nodes in large networks using Katz centrality",
+        "Justin Zhan, Sweta Gurung, Sai Phani Krishna Parsa",
+        "May 2017",
+        "Network theory concepts form the core of algorithms that are designed to uncover valuable insights from various datasets. Especially, network centrality measures such as Eigenvector centrality, Katz centrality, PageRank centrality etc., are used in retrieving top-K viral information propagators in social networks,while web page ranking in efficient information retrieval, etc. In..."
+    ],
+    "197": [
+        "Impact of reviewer social interaction on online consumer review fraud detection",
+        "Kunal Goswami, Younghee Park, Chungsik Song",
+        "May 2017",
+        "Background Online consumer reviews have become a baseline for new consumers to try out a business or a new product. The reviews provide a quick look into the application and experience of the business/product and market it to new customers. However, some businesses or reviewers use these reviews to spread fake information about the business/product. The fake information can be..."
+    ],
+    "198": [
+        "Botnet detection using graph-based feature clustering",
+        "Sudipta Chowdhury, Mojtaba Khanzadeh, Ravi Akula, et al.",
+        "May 2017",
+        "Detecting botnets in a network is crucial because bots impact numerous areas such as cyber security, finance, health care, law enforcement, and more. Botnets are becoming more sophisticated and dangerous day-by-day, and most of the existing rule based and flow based detection methods may not be capable of detecting bot activities in an efficient and effective manner. Hence..."
+    ],
+    "199": [
+        "Big Data management in smart grid: concepts, requirements and implementation",
+        "Houda Daki, Asmaa El Hannani, Abdelhak Aqqal, et al.",
+        "Apr 2017",
+        "A smart grid is an intelligent electricity grid that optimizes the generation, distribution and consumption of electricity through the introduction of Information and Communication Technologies on the electricity grid. In essence, smart grids bring profound changes in the information systems that drive them: new information flows coming from the electricity grid, new players such..."
+    ],
+    "200": [
+        "Outlier edge detection using random graph generation models and applications",
+        "Honglei Zhang, Serkan Kiranyaz, Moncef Gabbouj",
+        "Apr 2017",
+        "Outliers are samples that are generated by different mechanisms from other normal data samples. Graphs, in particular social network graphs, may contain nodes and edges that are made by scammers, malicious programs or mistakenly by normal users. Detecting outlier nodes and edges is important for data mining and graph analytics. However, previous research in the field has merely..."
+    ],
+    "201": [
+        "Defining the execution semantics of stream processing engines",
+        "Lorenzo Affetti, Riccardo Tommasini, Alessandro Margara, et al.",
+        "Apr 2017",
+        "The ability to process large volumes of data on the fly, as soon as they become available, is a fundamental requirement in today’s information systems. Modern distributed stream processing engines (SPEs) address this requirement and provide low-latency and high-throughput data stream processing in cluster platforms, offering high-level programming interfaces that abstract from..."
+    ],
+    "202": [
+        "Big data driven co-occurring evidence discovery in chronic obstructive pulmonary disease patients",
+        "Christopher Baechle, Ankur Agarwal, Xingquan Zhu",
+        "Apr 2017",
+        "Background Chronic Obstructive Pulmonary Disease (COPD) is a chronic lung disease that affects airflow to the lungs. Discovering the co-occurrence of COPD with other diseases, symptoms, and medications is invaluable to medical staff. Building co-occurrence indexes and finding causal relationships with COPD can be difficult because often times disease prevalence within a..."
+    ],
+    "203": [
+        "Toward building RDB to HBase conversion rules",
+        "R. Ouanouki, A. April, A. Abran, et al.",
+        "Apr 2017",
+        "Cloud data stores that can handle very large amounts of data, such as Apache HBase, have accelerated the use of non-relational databases (coined as NoSQL databases) as a way of addressing RDB database limitations with regards to scalability and performance of existing systems. Converting existing systems and their databases to this technology is not trivial, given that RDB..."
+    ],
+    "204": [
+        "The design of an adaptive column-store system",
+        "George Chernishev",
+        "Apr 2017",
+        "A fully self-managed DBMS which does not require administrator intervention is the ultimate goal of database developers. This system should automate deploying, configuration, administration, monitoring, and tuning tasks. Although there are some advances in this field, self-managed technology is largely not ready for industrial use and remains an active area of research. One of..."
+    ],
+    "205": [
+        "Quality management architecture for social media data",
+        "Pekka Pääkkönen, Juha Jokitulppo",
+        "Apr 2017",
+        "Social media data has provided various insights into the behaviour of consumers and businesses. However, extracted data may be erroneous, or could have originated from a malicious source. Thus, quality of social media should be managed. Also, it should be understood how data quality can be managed across a big data pipeline, which may consist of several processing and analysis..."
+    ],
+    "206": [
+        "Modeling temporal aspects of sensor data for MongoDB NoSQL database",
+        "Nadeem Qaisar Mehmood, Rosario Culmone, Leonardo Mostarda",
+        "Mar 2017",
+        "Proliferation of structural, semi-structural and no-structural data, has challenged the scalability, flexibility and processability of the traditional relational database management systems (RDBMS). The next generation systems demand horizontal scaling by distributing data over autonomously addable nodes to a running system. For schema flexibility, they also want to process and..."
+    ],
+    "207": [
+        "Improving deep neural network design with new text data representations",
+        "Joseph D. Prusa, Taghi M. Khoshgoftaar",
+        "Mar 2017",
+        "Using traditional machine learning approaches, there is no single feature engineering solution for all text mining and learning tasks. Thus, researchers must determine and implement the best feature engineering approach for each text classification task; however, deep learning allows us to skip this step by extracting and learning high-level features automatically from low-level..."
+    ],
+    "208": [
+        "Scalable two-phase co-occurring sensitive pattern hiding using MapReduce",
+        "Shivani Sharma, Durga Toshniwal",
+        "Mar 2017",
+        "BackgroundExpansion of Internet and its use for on-line activities such as E-Commerce and social networking are producing large volumes of transactional data. This huge data volume resulted from these activities facilitates the analysis and understanding of global trends and interesting patterns used for several decisive purposes. Analytics involved in these processes expose..."
+    ],
+    "209": [
+        "Conceptualizing Big Social Data",
+        "Ekaterina Olshannikova, Thomas Olsson, Jukka Huhtamäki, et al.",
+        "Jan 2017",
+        "The popularity of social media and computer-mediated communication has resulted in high-volume and highly semantic data about digital social interactions. This constantly accumulating data has been termed as Big Social Data or Social Big Data, and various visions about how to utilize that have been presented. However, as relatively new concepts, there are no solid and commonly..."
+    ],
+    "210": [
+        "Vaccination allocation in large dynamic networks",
+        "Justin Zhan, Timothy Rafalski, Gennady Stashkevich, et al.",
+        "Jan 2017",
+        "Network infections that are already in progress cause challenges to those officers trying to preserve those nodes not yet infected. Static solutions can take advantage of global knowledge of the network to produce quick and approximate answers for those members who should be vaccinated. In dynamic situations however, small changes can severely alter those static solutions making..."
+    ],
+    "211": [
+        "A new method of large-scale short-term forecasting of agricultural commodity prices: illustrated by the case of agricultural markets in Beijing",
+        "Haoyang Wu, Huaili Wu, Minfeng Zhu, et al.",
+        "Jan 2017",
+        "In order to forecast prices of arbitrary agricultural commodity in different wholesale markets in one city, this paper proposes a mixed model, which combines ARIMA model and PLS regression method based on time and space factors. This mixed model is able to obtain the forecasting results of weekly prices of agricultural commodities in different markets. Meanwhile, this paper sets..."
+    ],
+    "212": [
+        "Big data privacy: a technological perspective and review",
+        "Priyank Jain, Manasi Gyanchandani, Nilay Khare",
+        "Dec 2016",
+        "Big data is a term used for very large data sets that have more varied and complex structure. These characteristics usually correlate with additional difficulties in storing, analyzing and applying further procedures or extracting results. Big data analytics is the term used to describe the process of researching massive amounts of complex data in order to reveal hidden patterns..."
+    ],
+    "213": [
+        "Limited random walk algorithm for big graph data clustering",
+        "Honglei Zhang, Jenni Raitoharju, Serkan Kiranyaz, et al.",
+        "Dec 2016",
+        "Graph clustering is an important technique to understand the relationships between the vertices in a big graph. In this paper, we propose a novel random-walk-based graph clustering method. The proposed method restricts the reach of the walking agent using an inflation function and a normalization function. We analyze the behavior of the limited random walk procedure and propose a..."
+    ],
+    "214": [
+        "TreeNet analysis of human stress behavior using socio-mobile data",
+        "B. Padmaja, V. V. Rama Prasad, K. V. N. Sunitha",
+        "Nov 2016",
+        "Human behavior is essentially social and humans start their daily routines by interacting with others. There are many forms of social interactions and we have used mobile phone based social interaction features and social surveys for finding human stress behavior. For this, we gathered mobile phone call logs data set containing 111,444 voice calls of 131 adult members of a living..."
+    ],
+    "215": [
+        "Understanding big data themes from scientific biomedical literature through topic modeling",
+        "Allard J. van Altena, Perry D. Moerland, Aeilko H. Zwinderman, et al.",
+        "Nov 2016",
+        "Nowadays, big data is a key component in (bio)medical research. However, the meaning of the term is subject to a wide array of opinions, without a formal definition. This hampers communication and leads to missed opportunities. For example, in the (bio)medical field we have observed many different interpretations, some of which have a negative connotation, impeding exploitation..."
+    ],
+    "216": [
+        "An optimized approach for community detection and ranking",
+        "Matin Pirouz, Justin Zhan, Shahab Tayeb",
+        "Nov 2016",
+        "Community structures and relation patterns, and ranking them for social networks provide us with great knowledge about network. Such knowledge can be utilized for target marketing or grouping similar, yet distinct, nodes. The ever-growing variety of social networks necessitates detection of minute and scattered communities, which are important problems across different research..."
+    ],
+    "217": [
+        "An efficient strategy for the collection and storage of large volumes of data for computation",
+        "Uthayanath Suthakar, Luca Magnoni, David Ryan Smith, et al.",
+        "Oct 2016",
+        "In recent years, there has been an increasing amount of data being produced and stored, which is known as Big Data. The social networks, internet of things, scientific experiments and commercial services play a significant role in generating a vast amount of data. Three main factors are important in Big Data; Volume, Velocity and Variety. One needs to consider all three factors..."
+    ],
+    "218": [
+        "Data-aware optimization of bioinformatics workflows in hybrid clouds",
+        "Athanassios M. Kintsakis, Fotis E. Psomopoulos, Pericles A. Mitkas",
+        "Oct 2016",
+        "Life Sciences have been established and widely accepted as a foremost Big Data discipline; as such they are a constant source of the most computationally challenging problems. In order to provide efficient solutions, the community is turning towards scalable approaches such as the utilization of cloud resources in addition to any existing local computational infrastructures..."
+    ],
+    "219": [
+        "Analyzing performance of Apache Tez and MapReduce with hadoop multinode cluster on Amazon cloud",
+        "Rupinder Singh, Puneet Jai Kaur",
+        "Oct 2016",
+        "Big Data is the term used for larger data sets that are very complex and not easily processed by the traditional devices. Today is the need of the new technology for processing these large data sets. Apache Hadoop is the good option and it has many components that worked together to make the hadoop ecosystem robust and efficient. Apache Pig is the core component of hadoop..."
+    ],
+    "220": [
+        "Big data analysis for financial risk management",
+        "Paola Cerchiello, Paolo Giudici",
+        "Oct 2016",
+        "A very important area of financial risk management is systemic risk modelling, which concerns the estimation of the interrelationships between financial institutions, with the aim of establishing which of them are more central and, therefore, more contagious/subject to contagion. The aim of this paper is to develop a novel systemic risk model. A model that, differently from..."
+    ],
+    "221": [
+        "d2o: a distributed data object for parallel high-performance computing in Python",
+        "Theo Steininger, Maksim Greiner, Frederik Beaujean, et al.",
+        "Sep 2016",
+        "We introduce d2o, a Python module for cluster-distributed multi-dimensional numerical arrays. It acts as a layer of abstraction between the algorithm code and the data-distribution logic. The main goal is to achieve usability without losing numerical performance and scalability. d2o’s global interface is similar to the one of a numpy.ndarray, whereas the cluster node’s local data..."
+    ],
+    "222": [
+        "Identification of top-K influential communities in big networks",
+        "Justin Zhan, Vivek Guidibande, Sai Phani Krishna Parsa",
+        "Sep 2016",
+        "Because communities are the fundamental component of big data/large data network graphs, community detection in large-scale graphs is an important area to study. Communities are a collection of a set of nodes with similar features. In a given graph there can be many features for clustering the nodes to form communities. Varying the features of interest can form several..."
+    ],
+    "223": [
+        "Multi-method approach to wellness predictive modeling",
+        "Ankur Agarwal, Christopher Baechle, Ravi S. Behara, et al.",
+        "Aug 2016",
+        "Patient wellness and preventative care are increasingly becoming a concern for many patients, employers, and healthcare professionals. The federal government has increased spending for wellness alongside new legislation which gives employers and insurance providers some new tools for encouraging preventative care. Not all preventative care and wellness programs have a net..."
+    ],
+    "224": [
+        "Reaping the benefits of big data in telecom",
+        "Jacques Bughin",
+        "Jul 2016",
+        "We collect big data use cases for a representative sample of telecom companies worldwide and observe a wide and skewed distribution of big data returns, with a few companies reporting large impact for a long tail of telecom companies with limited returns. Using a joint model of adoption and returns to adoption, we find that the skewness of the distribution arises from a few..."
+    ],
+    "225": [
+        "Analysis of hourly road accident counts using hierarchical clustering and cophenetic correlation coefficient (CPCC)",
+        "Sachin Kumar, Durga Toshniwal",
+        "Jul 2016",
+        "Road and traffic accidents are an important concern around the world. Road accidents not only affects the public health with different level of injury but also results in property damage. Data analysis has the capability to identify the different reasons behind road accidents i.e. traffic characteristics, weather characteristics, road characteristics and etc. A variety of..."
+    ],
+    "226": [
+        "Optimized relativity search: node reduction in personalized page rank estimation for large graphs",
+        "Matin Pirouz, Justin Zhan",
+        "Jul 2016",
+        "This paper proposes an algorithm called optimized relativity search to reduce the number of nodes in a graph when attempting to decrease the running time for personalized page rank (PPR) estimation. Even though similar estimations have been done, this method significantly increases the speed of computation, making it a feasible candidate for large graph solutions, such as search..."
+    ],
+    "227": [
+        "Spatial data extension for Cassandra NoSQL database",
+        "Mohamed Ben Brahim, Wassim Drira, Fethi Filali, et al.",
+        "Jun 2016",
+        "The big data phenomenon is becoming a fact. Continuous increase of digitization and connecting devices to Internet are making current solutions and services smarter, richer and more personalized. The emergence of the NoSQL databases, like Cassandra, with their massive scalability and high availability encourages us to investigate the management of the stored data within such..."
+    ],
+    "228": [
+        "Towards shortest path identification on large networks",
+        "Haysam Selim, Justin Zhan",
+        "Jun 2016",
+        "The use of Big Data in today’s world has become a necessity due to the massive number of technologies developed recently that keeps on providing us with data such as sensors, surveillance system and even smart phones and smart wearable devices they all tend to produce a lot of information that need to be analyzed and studied in details to provide us with some insight to what..."
+    ],
+    "229": [
+        "A survey of transfer learning",
+        "Karl Weiss, Taghi M. Khoshgoftaar, DingDing Wang",
+        "May 2016",
+        "Machine learning and data mining techniques have been used in numerous real-world applications. An assumption of traditional machine learning methodologies is the training data and testing data are taken from the same domain, such that the input feature space and data distribution characteristics are the same. However, in some real-world machine learning scenarios, this..."
+    ],
+    "230": [
+        "A novel framework to analyze road accident time series data",
+        "Sachin Kumar, Durga Toshniwal",
+        "May 2016",
+        "Road accident data analysis plays an important role in identifying key factors associated with road accidents. These associated factors help in taking preventive measures to overcome the road accidents. Various studies have been done on road accident data analysis using traditional statistical techniques and data mining techniques. All these studies focused on identifying key..."
+    ],
+    "231": [
+        "Topic discovery and future trend forecasting for texts",
+        "Jose L. Hurtado, Ankur Agarwal, Xingquan Zhu",
+        "Apr 2016",
+        "Finding topics from a collection of documents, such as research publications, patents, and technical reports, is helpful for summarizing large scale text collections and the world wide web. It can also help forecast topic trends in the future. This can be beneficial for many applications, such as modeling the evolution of the direction of research and forecasting future trends of..."
+    ],
+    "232": [
+        "Feasibility analysis of AsterixDB and Spark streaming with Cassandra for stream-based processing",
+        "Pekka Pääkkönen",
+        "Apr 2016",
+        "For getting up-to-date insight into online services, extracted data has to be processed in near real time. For example, major big data companies (Facebook, LinkedIn, Twitter) analyse streaming data for development of new services. Several technologies have been developed, which could be selected for implementation of stream processing functionalities. The contribution of this..."
+    ],
+    "233": [
+        "Role of big-data in classification and novel class detection in data streams",
+        "M. B. Chandak",
+        "Mar 2016",
+        "“Data streams” is defined as class of data generated over “text, audio and video” channel in continuous form. The streams are of infinite length and may comprise of structured or unstructured data. With these features, it is difficult to store and process data streams with simple and static strategies. The processing of data stream poses four main challenges to researchers. These..."
+    ],
+    "234": [
+        "An AppGallery for dataflow computing",
+        "Nemanja Trifunovic, Veljko Milutinovic, Nenad Korolija, et al.",
+        "Feb 2016",
+        "This paper describes the vision behind and the mission of the Maxeler Application Gallery (AppGallery.Maxeler.com) project. First, it concentrates on the essence and performance advantages of the Maxeler dataflow approach. Second, it reviews the support technologies that enable the dataflow approach to achieve its maximum. Third, selected examples of the Maxeler Application..."
+    ],
+    "235": [
+        "Mining Chinese social media UGC: a big-data framework for analyzing Douban movie reviews",
+        "Jie Yang, Brian Yecies",
+        "Jan 2016",
+        "Analysis of online user-generated content is receiving attention for its wide applications from both academic researchers and industry stakeholders. In this pilot study, we address common Big Data problems of time constraints and memory costs involved with using standard single-machine hardware and software. A novel Big Data processing framework is proposed to investigate a niche..."
+    ],
+    "236": [
+        "Big data, Big bang?",
+        "Jacques Bughin",
+        "Jan 2016",
+        "Using a random sample consisting of hundreds of companies worldwide, we are testing the impact on company performance of investing in big data projects targeted on three major business domains (namely, customer interface, company supply chain and competitors). The performance test relies on a so-called trans-logarithmic production function, allowing for a more direct test of the..."
+    ],
+    "237": [
+        "Data stream clustering by divide and conquer approach based on vector model",
+        "Madjid Khalilian, Norwati Mustapha, Nasir Sulaiman",
+        "Jan 2016",
+        "Recently, many researchers have focused on data stream processing as an efficient method for extracting knowledge from big data. Data stream clustering is an unsupervised approach that is employed for huge data. The continuous effort on data stream clustering method has one common goal which is to achieve an accurate clustering algorithm. However, there are some issues that are..."
+    ],
+    "238": [
+        "The ubiquitous self-organizing map for non-stationary data streams",
+        "Bruno Silva, Nuno Cavalheiro Marques",
+        "Dec 2015",
+        "The Internet of things promises a continuous flow of data where traditional database and data-mining methods cannot be applied. This paper presents improvements on the Ubiquitous Self-Organized Map (UbiSOM), a novel variant of the well-known Self-Organized Map (SOM), tailored for streaming environments. This approach allows ambient intelligence solutions using multidimensional..."
+    ],
+    "239": [
+        "A data mining framework to analyze road accident data",
+        "Sachin Kumar, Durga Toshniwal",
+        "Nov 2015",
+        "One of the key objectives in accident data analysis to identify the main factors associated with a road and traffic accident. However, heterogeneous nature of road accident data makes the analysis task difficult. Data segmentation has been used widely to overcome this heterogeneity of the accident data. In this paper, we proposed a framework that used K-modes clustering technique..."
+    ],
+    "240": [
+        "An industrial big data pipeline for data-driven analytics maintenance applications in large-scale smart manufacturing facilities",
+        "P. O’Donovan, K. Leahy, K. Bruton, et al.",
+        "Nov 2015",
+        "The term smart manufacturing refers to a future-state of manufacturing, where the real-time transmission and analysis of data from across the factory creates manufacturing intelligence, which can be used to have a positive impact across all aspects of operations. In recent years, many initiatives and groups have been formed to advance smart manufacturing, with the most prominent..."
+    ],
+    "241": [
+        "A survey of open source tools for machine learning with big data in the Hadoop ecosystem",
+        "Sara Landset, Taghi M. Khoshgoftaar, Aaron N. Richter, et al.",
+        "Nov 2015",
+        "With an ever-increasing amount of options, the task of selecting machine learning tools for big data can be difficult. The available tools have advantages and drawbacks, and many have overlapping uses. The world’s data is growing rapidly, and traditional tools for machine learning are becoming insufficient as we move towards distributed and real-time processing. This paper is..."
+    ],
+    "242": [
+        "Survey of review spam detection using machine learning techniques",
+        "Michael Crawford, Taghi M. Khoshgoftaar, Joseph D. Prusa, et al.",
+        "Oct 2015",
+        "Online reviews are often the primary factor in a customer’s decision to purchase a product or service, and are a valuable source of information that can be used to determine public opinion on these products or services. Because of their impact, manufacturers and retailers are highly concerned with customer feedback and reviews. Reliance on online reviews gives rise to the..."
+    ],
+    "243": [
+        "Big data analytics: a survey",
+        "Chun-Wei Tsai, Chin-Feng Lai, Han-Chieh Chao, et al.",
+        "Oct 2015",
+        "The age of big data is now coming. But the traditional data analytics may not be able to handle such large quantities of data. The question that arises now is, how to develop a high performance platform to efficiently analyze big data and how to design an appropriate mining algorithm to find the useful things from big data. To deeply discuss this issue, this paper begins with a..."
+    ],
+    "244": [
+        "Visualizing Big Data with augmented and virtual reality: challenges and research agenda",
+        "Ekaterina Olshannikova, Aleksandr Ometov, Yevgeni Koucheryavy, et al.",
+        "Oct 2015",
+        "This paper provides a multi-disciplinary overview of the research issues and achievements in the field of Big Data and its visualization techniques and tools. The main aim is to summarize challenges in visualization methods for existing Big Data, as well as to offer novel solutions for issues related to the current state of Big Data Visualization. This paper provides a..."
+    ],
+    "245": [
+        "Big data in manufacturing: a systematic mapping study",
+        "Peter O’Donovan, Kevin Leahy, Ken Bruton, et al.",
+        "Sep 2015",
+        "The manufacturing industry is currently in the midst of a data-driven revolution, which promises to transform traditional manufacturing facilities in to highly optimised smart manufacturing facilities. These smart facilities are focused on creating manufacturing intelligence from real-time data to support accurate and timely decision-making that can have a positive impact across..."
+    ],
+    "246": [
+        "Erratum to: Structural and functional analytics for community detection in large-scale complex networks",
+        "Pravin Chopade, Justin Zhan",
+        "Aug 2015",
+        ""
+    ],
+    "247": [
+        "Choosing the right NoSQL database for the job: a quality attribute evaluation",
+        "João Ricardo Lourenço, Bruno Cabral, Paulo Carreiro, et al.",
+        "Aug 2015",
+        "For over forty years, relational databases have been the leading model for data storage, retrieval and management. However, due to increasing needs for scalability and performance, alternative systems have emerged, namely NoSQL technology. The rising interest in NoSQL technology, as well as the growth in the number of use case scenarios, over the last few years resulted in an..."
+    ],
+    "248": [
+        "A novel algorithm for fast and scalable subspace clustering of high-dimensional data",
+        "Amardeep Kaur, Amitava Datta",
+        "Aug 2015",
+        "Rapid growth of high dimensional datasets in recent years has created an emergent need to extract the knowledge underlying them. Clustering is the process of automatically finding groups of similar data points in the space of the dimensions or attributes of a dataset. Finding clusters in the high dimensional datasets is an important and challenging data mining problem. Data group..."
+    ],
+    "249": [
+        "Database application model and its service for drug discovery in Model-driven architecture",
+        "Noriko Etani",
+        "Aug 2015",
+        "Big data application has many data resources and data. In the first stage of software engineering, a service overview or a system overview cannot be seen. In this paper, we propose that two processes of “Big data analytics” and “Implementation of data modeling” should be collaborated with Model-driven architecture (MDA). Data modeling with those two process in MDA should be..."
+    ],
+    "250": [
+        "Cabinet Tree: an orthogonal enclosure approach to visualizing and exploring big data",
+        "Yalong Yang, Kang Zhang, Jianrong Wang, et al.",
+        "Jul 2015",
+        "Treemaps are well-known for visualizing hierarchical data. Most related approaches have been focused on layout algorithms and paid little attention to other display properties and interactions. Furthermore, the structural information in conventional Treemaps is too implicit for viewers to perceive. This paper presents Cabinet Tree, an approach that: i) draws branches explicitly..."
+    ],
+    "251": [
+        "Meta-MapReduce for scalable data mining",
+        "Xuan Liu, Xiaoguang Wang, Stan Matwin, et al.",
+        "Jul 2015",
+        "W e h a v e e n t e r e d t h e b i g data age. Knowledge extraction from massive data is becoming more and more urgent. MapReduce provides a feasible framework for programming machine learning algorithms in Map and Reduce functions. The relatively simple programming interface has helped to solve machine learning algorithms’ scalability problems. However, this framework suffers..."
+    ],
+    "252": [
+        "SOCR data dashboard: an integrated big data archive mashing medicare, labor, census and econometric information",
+        "Syed S Husain, Alexandr Kalinin, Anh Truong, et al.",
+        "Jul 2015",
+        "IntroductionIntuitive formulation of informative and computationally-efficient queries on big and complex datasets present a number of challenges. As data collection is increasingly streamlined and ubiquitous, data exploration, discovery and analytics get considerably harder. Exploratory querying of heterogeneous and multi-source information is both difficult and necessary to..."
+    ],
+    "253": [
+        "Actionable Knowledge As A Service (AKAAS): Leveraging big data analytics in cloud computing environments",
+        "Audrey Depeige, Dimitri Doyencourt",
+        "Jul 2015",
+        "Knowledge-as-a service is an emerging research trend that constitutes a promising path for organizations aiming to achieve better customer support and decision-making across a wide range of content providers. However, only few studies have explored how traditional knowledge management processes and practices are challenged and evolve in relation to social and technological..."
+    ],
+    "254": [
+        "Structural and functional analytics for community detection in large-scale complex networks",
+        "Pravin Chopade, Justin Zhan",
+        "Jul 2015",
+        "Community structure is thought to be one of the main organizing principles in most complex networks. Big data and complex networks represent an area which researchers are analyzing worldwide. Of special interest are groups of vertices within which connections are dense. In this paper we begin with discussing community dynamics and exploring complex network structural parameters..."
+    ],
+    "255": [
+        "Performance analysis of concurrent workflows",
+        "Andreas Kempa-Liehr",
+        "Jul 2015",
+        "Automated workflows are the key concept of big data pipelines in science, engineering and enterprise applications. The performance analysis of automated workflows is an important topic of the continuous improvement process and the foundation of designing new workflows. This paper introduces the concept of process evolution functions and event reduction policies, which allow for..."
+    ],
+    "256": [
+        "Sharing big biomedical data",
+        "Arthur W Toga, Ivo D Dinov",
+        "Jun 2015",
+        "Background The promise of Big Biomedical Data may be offset by the enormous challenges in handling, analyzing, and sharing it. In this paper, we provide a framework for developing practical and reasonable data sharing policies that incorporate the sociological, financial, technical and scientific requirements of a sustainable Big Data dependent scientific community. Findings Many..."
+    ],
+    "257": [
+        "Summarizing large text collection using topic modeling and clustering based on MapReduce framework",
+        "N K Nagwani",
+        "Jun 2015",
+        "Document summarization provides an instrument for faster understanding the collection of text documents and has a number of real life applications. Semantic similarity and clustering can be utilized efficiently for generating effective summary of large text collections. Summarizing large volume of text is a challenging and time consuming problem particularly while considering the..."
+    ],
+    "258": [
+        "Sentiment analysis using product review data",
+        "Xing Fang, Justin Zhan",
+        "Jun 2015",
+        "Sentiment analysis or opinion mining is one of the major tasks of NLP (Natural Language Processing). Sentiment analysis has gain much attention in recent years. In this paper, we aim to tackle the problem of sentiment polarity categorization, which is one of the fundamental problems of sentiment analysis. A general process for sentiment polarity categorization is proposed with..."
+    ],
+    "259": [
+        "DCMS: A data analytics and management system for molecular simulation",
+        "Anand Kumar, Vladimir Grupcev, Meryem Berrada, et al.",
+        "Jun 2015",
+        "Molecular Simulation (MS) is a powerful tool for studying physical/chemical features of large systems and has seen applications in many scientific and engineering domains. During the simulation process, the experiments generate a very large number of atoms and intend to observe their spatial and temporal relationships for scientific analysis. The sheer data volumes and their..."
+    ],
+    "260": [
+        "Paradigm Shift in Big Data SuperComputing: DataFlow vs. ControlFlow",
+        "Nemanja Trifunovic, Veljko Milutinovic, Jakob Salom, et al.",
+        "May 2015",
+        "The paper discusses the shift in the computing paradigm and the programming model for Big Data problems and applications. We compare DataFlow and ControlFlow programming models through their quantity and quality aspects. Big Data problems and applications that are suitable for implementation on DataFlow computers should not be measured using the same measures as ControlFlow..."
+    ],
+    "261": [
+        "A survey on platforms for big data analytics",
+        "Dilpreet Singh, Chandan K Reddy",
+        "Apr 2015",
+        "The primary purpose of this paper is to provide an in-depth analysis of different platforms available for performing big data analytics. This paper surveys different hardware platforms available for big data analytics and assesses the advantages and drawbacks of each of these platforms based on various metrics such as scalability, data I/O rate, fault tolerance, real-time..."
+    ],
+    "262": [
+        "Deep learning applications and challenges in big data analytics",
+        "Maryam M Najafabadi, Flavio Villanustre, Taghi M Khoshgoftaar, et al.",
+        "Apr 2015",
+        "Big Data Analytics and Deep Learning are two high-focus of data science. Big Data has become important as many organizations both public and private have been collecting massive amounts of domain-specific information, which can contain useful information about problems such as national intelligence, cyber security, fraud detection, marketing, and medical informatics. Companies..."
+    ],
+    "263": [
+        "Intrusion detection and Big Heterogeneous Data: a Survey",
+        "Richard Zuech, Taghi M Khoshgoftaar, Randall Wald",
+        "Apr 2015",
+        "Intrusion Detection has been heavily studied in both industry and academia, but cybersecurity analysts still desire much more alert accuracy and overall threat analysis in order to secure their systems within cyberspace. Improvements to Intrusion Detection could be achieved by embracing a more comprehensive approach in monitoring security events from many different heterogeneous..."
+    ],
+    "264": [
+        "Contextual anomaly detection framework for big sensor data",
+        "Michael A Hayes, Miriam AM Capretz",
+        "Feb 2015",
+        "The ability to detect and process anomalies for Big Data in real-time is a difficult task. The volume and velocity of the data within many systems makes it difficult for typical algorithms to scale and retain their real-time characteristics. The pervasiveness of data combined with the problem that many existing algorithms only consider the content of the data source; e.g. a..."
+    ],
+    "265": [
+        "Comparative study between incremental and ensemble learning on data streams: Case study",
+        "Wenyu Zang, Peng Zhang, Chuan Zhou, et al.",
+        "Dec 2014",
+        "With unlimited growth of real-world data size and increasing requirement of real-time processing, immediate processing of big stream data has become an urgent problem. In stream data, hidden patterns commonly evolve over time (i.e.,concept drift), where many dynamic learning strategies have been proposed, such as the incremental learning and ensemble learning. To the best of our..."
+    ],
+    "266": [
+        "Airline new customer tier level forecasting for real-time resource allocation of a miles program",
+        "Jose Berengueres, Dmitry Efimov",
+        "Dec 2014",
+        "This is a case study on an airline’s miles program resource optimization. The airline had a large miles loyalty program but was not taking advantage of recent data mining techniques. As an example, to predict whether in the coming month(s), a new passenger would become a privileged frequent flyer or not, a linear extrapolation of the miles earned during the past months was used..."
+    ],
+    "267": [
+        "Cultivating a research agenda for data science",
+        "Chris A Mattmann",
+        "Dec 2014",
+        "I describe a research agenda for data science based on a decade of research and operational work in data-intensive systems at NASA, the University of Southern California, and in the context of open source work at the Apache Software Foundation. My vision is predicated on understanding the architecture for grid computing; on flexible and automated approaches for selecting data..."
+    ],
+    "268": [
+        "v-TerraFly: large scale distributed spatial data visualization with autonomic resource management",
+        "Yun Lu, Ming Zhao, Lixi Wang, et al.",
+        "Dec 2014",
+        "GIS application hosts are becoming more and more complicated. Theses hosts’ management is becoming more time consuming and less reliabale decreases with the increase in complexity of GIS applications. The resource management of GIS applications is becoming increasingly important in order to deliver to the user the desired Quality of Service. Map systems often serve dynamic web..."
+    ],
+    "269": [
+        "A review of data mining using big data in health informatics",
+        "Matthew Herland, Taghi M Khoshgoftaar, Randall Wald",
+        "Dec 2014",
+        "The amount of data produced within Health Informatics has grown to be quite vast, and analysis of this Big Data grants potentially limitless possibilities for knowledge to be gained. In addition, this information can improve the quality of healthcare offered to patients. However, there are a number of issues that arise when dealing with these vast quantities of data, especially..."
+    ],
+    "270": [
+        "A big data methodology for categorising technical support requests using Hadoop and Mahout",
+        "Arantxa Duque Barrachina, Aisling O’Driscoll",
+        "Dec 2014",
+        "Technical Support call centres frequently receive several thousand customer queries on a daily basis. Traditionally, such organisations discard data related to customer enquiries within a relatively short period of time due to limited storage capacity. However, in recent years, the value of retaining and analysing this information has become clear, enabling call centres to..."
+    ]
+}
