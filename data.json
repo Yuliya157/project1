@@ -1,4 +1,10 @@
 {
+    "0": [
+        "Toward multi-label sentiment analysis: a transfer learning based approach",
+        "Jie Tao, Xing Fang",
+        "Feb 2020",
+        "Sentiment analysis is recognized as one of the most important sub-areas in Natural Language Processing (NLP) research, where understanding implicit or explicit sentiments expressed in social media contents is valuable to customers, business owners, and other stakeholders. Researchers have recognized that the generic sentiments extracted from the textual contents are inadequate..."
+    ],
     "1": [
         "Criminal tendency detection from facial images and the gender bias effect",
         "Mahdi Hashemi, Margeret Hall",

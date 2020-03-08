@@ -28,7 +28,7 @@ for i in range(2, N+2):
     time.sleep(5)
 name_author = [x for x in name_author if x != ''] #в списке появляются пустые элементы
 date_article = [y for y in date_article if y != '']
-d = {x: (name_article[x], name_author[x], date_article[x], short_description[x]) for x in range(1, len(name_article))}
+d = {x: (name_article[x], name_author[x], date_article[x], short_description[x]) for x in range(0, len(name_article))}
 with open('data.json', 'w', encoding="utf-8") as f:
     json.dump(d, f, indent=4, ensure_ascii=False)
 driver.close()
