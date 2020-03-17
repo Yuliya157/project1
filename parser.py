@@ -56,13 +56,7 @@ date = [y for y in date if y != '']
 url.insert(258, 'https://paperity.org/p/73244106/sentiment-analysis-using-product-review-data')
 keywords.insert(258, '-')
 pages.insert(258, '-')
-print(len(url))
-print(len(title))
-print(len(name_author))
-print(len(date))
-print(len(short_description))
-print(len(keywords))
-print(len(pages))
+
 d = [{'url': url[x], 'title':title[x], 'authors':name_author[x], 'date_article':date[x], 'short_description': short_description[x], 'keywords':keywords[x], 'number_of_pages':pages[x]} for x in range(len(title))]
 with open('data.json', 'w', encoding="utf-8") as f:
     json.dump(d, f, indent = 4, ensure_ascii = False)
