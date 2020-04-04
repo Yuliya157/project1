@@ -65,7 +65,7 @@ for elem in url:
     time.sleep(2)
     root = Tk()
     paste = Tk().clipboard_get() #текст из буфера
-    abstract1 = paste.find('Abstract') + 8  # +8, чтобы убрать слово abstract
+    abstract1 = paste.find('Abstract') + 8  # +8 чтобы убрать слово abstract
     keywords1 = paste.find('Keywords')
     string = paste[abstract1:keywords1]
     abstract.append(string)
